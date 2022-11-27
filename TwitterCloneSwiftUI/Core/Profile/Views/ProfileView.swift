@@ -10,6 +10,7 @@ import SwiftUI
 struct ProfileView: View {
     
     @State private var selectedFilter: TweetFilterViewModel = .tweets
+    @Environment(\.presentationMode) var mode
     @Namespace var animation
     
     var body: some View {
@@ -20,12 +21,16 @@ struct ProfileView: View {
                 Color.blue
                     .ignoresSafeArea()
                 VStack {
-                    Image(systemName: "arrow.left")
-                        .resizable()
-                        .frame(width: 20, height: 16)
-                        .foregroundColor(.white)
-                        .offset(x:16,y: 12)
-                    
+                    Button {
+                        mode.wrappedValue.dismiss()
+                    } label: {
+                        Image(systemName: "arrow.left")
+                            .resizable()
+                            .frame(width: 20, height: 16)
+                            .foregroundColor(.white)
+                            .offset(x:16,y: 12)
+                    }
+
                     Circle()
                         .frame(width: 72)
                         .offset(x:16,y:34)
@@ -42,7 +47,7 @@ struct ProfileView: View {
                     .overlay(Circle().stroke(Color.gray,lineWidth: 0.75))
                 
                 Button {
-                    // Action
+                    //Action
                 } label: {
                     Text("Edit Profile")
                         .font(.subheadline).bold()
@@ -86,25 +91,8 @@ struct ProfileView: View {
                 }.foregroundColor(.gray).font(.caption)
                 
                 // Following and Followers
-                HStack(spacing: 24) {
-                    HStack(spacing: 4) {
-                        Text("1000")
-                            .font(.subheadline).bold()
-                        
-                        Text("Followers")
-                            .font(.caption)
-                            .foregroundColor(.gray)
-                    }
-                    
-                    HStack {
-                        Text("2223").bold()
-                            .font(.subheadline).bold()
-                        
-                        Text("Follows")
-                            .font(.caption)
-                            .foregroundColor(.gray)
-                    }
-                }.padding(.vertical)
+               UserStatsView()
+                    .padding(.vertical)
                 
             }.padding(.leading )
             

@@ -28,7 +28,7 @@ struct TweetRowView: View {
                             .foregroundColor(.gray)
                             .font(.caption)
                         
-                        Text("31")
+                        Text("31s")
                             .foregroundColor(.gray)
                             .font(.caption)
                     }
