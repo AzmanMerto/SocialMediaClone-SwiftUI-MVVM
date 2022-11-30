@@ -9,37 +9,44 @@ import SwiftUI
 
 struct SideMenuView: View {
     var body: some View {
-        VStack(alignment: .leading,spacing: 32){
-            VStack(alignment: .leading) {
-                Circle()
-                    .frame(width: 48)
-                
-                VStack(alignment:.leading,spacing: 10) {
-                    Text("NomoteteS")
-                        .font(.headline)
+        NavigationView {
+            VStack(alignment: .leading,spacing: 32){
+                VStack(alignment: .leading) {
+                    Circle()
+                        .frame(width: 48)
                     
-                    Text("@NomoteteS")
-                        .font(.caption)
-                        .foregroundColor(.gray)
-                }
-                UserStatsView()
-                    .padding(.vertical)
-            }.padding()
-            
-            ForEach(SideMenuViewModel.allCases, id: \.rawValue) { ViewModel in
-                if ViewModel == .profile {
-                    NavigationLink {
-                        ProfileView()
-                    } label: {
-                        SideMenuOptionRowView(ViewModel: ViewModel)
+                    VStack(alignment:.leading,spacing: 10) {
+                        Text("NomoteteS")
+                            .font(.headline)
+                        
+                        Text("@NomoteteS")
+                            .font(.caption)
+                            .foregroundColor(.gray)
                     }
-                }else if ViewModel == .logout {
-                    
-                }else {
-                    SideMenuOptionRowView(ViewModel: ViewModel )
+                    UserStatsView()
+                        .padding(.vertical)
+                }.padding()
+                
+                ForEach(SideMenuViewModel.allCases, id: \.rawValue) { ViewModel in
+                    if ViewModel == .profile {
+                        NavigationLink {
+                            ProfileView()
+                        } label: {
+                            SideMenuOptionRowView(ViewModel: ViewModel)
+                        }
+                    }else if ViewModel == .logout {
+                        Button {
+                            print("User is logout...")
+                        } label: {
+                            SideMenuOptionRowView(ViewModel: ViewModel )
+                        }
+
+                    }else {
+                        SideMenuOptionRowView(ViewModel: ViewModel )
+                    }
                 }
+                Spacer()
             }
-            Spacer()
         }
       
     }
