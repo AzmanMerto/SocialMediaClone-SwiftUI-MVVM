@@ -18,7 +18,7 @@ struct CustomInputField: View {
                 Image(systemName: ImageName)
                     .resizable()
                     .scaledToFit()
-                    .frame(width: 28,height: 28)
+                    .frame(width: 23,height: 23)
                     .foregroundColor(.gray)
                 
                 TextField(placeholder, text: $text)
