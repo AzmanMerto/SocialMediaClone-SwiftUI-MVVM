@@ -51,6 +51,7 @@ struct RegistrationView: View {
                 .font(.footnote)
                 .padding(.bottom,32)
             }
+            .padding(.bottom)
 
                 
             

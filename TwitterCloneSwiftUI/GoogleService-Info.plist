@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1071448419238-jshujrkcv2gq5abpc2211s3ifgs8o2av.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1071448419238-jshujrkcv2gq5abpc2211s3ifgs8o2av</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAvGRoPOFZMwOEm5wHTtWMHKaV1U0NJT8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1071448419238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>NomoSiOS.TwitterCloneSwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>twitterswiftui-dffb5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitterswiftui-dffb5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1071448419238:ios:084d3914778d90c3aefd67</string>
+</dict>
+</plist>
