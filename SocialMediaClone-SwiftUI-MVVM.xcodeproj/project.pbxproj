@@ -44,7 +44,7 @@
 /* Begin PBXFileReference section */
 		3444777A2939286000E34B58 /* AuthHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthHeaderView.swift; sourceTree = "<group>"; };
 		346501D2293B6C1500A8CEAD /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
-		3475226B292F6BAE00A63C1C /* TwitterCloneSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TwitterCloneSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3475226B292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SocialMediaClone-SwiftUI-MVVM.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3475226E292F6BAE00A63C1C /* TwitterCloneSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterCloneSwiftUIApp.swift; sourceTree = "<group>"; };
 		34752270292F6BAE00A63C1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		34752272292F6BB000A63C1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 		34752262292F6BAE00A63C1C = {
 			isa = PBXGroup;
 			children = (
-				3475226D292F6BAE00A63C1C /* TwitterCloneSwiftUI */,
+				3475226D292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM */,
 				3475226C292F6BAE00A63C1C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -115,12 +115,12 @@
 		3475226C292F6BAE00A63C1C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3475226B292F6BAE00A63C1C /* TwitterCloneSwiftUI.app */,
+				3475226B292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3475226D292F6BAE00A63C1C /* TwitterCloneSwiftUI */ = {
+		3475226D292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM */ = {
 			isa = PBXGroup;
 			children = (
 				346501D1293B6C0400A8CEAD /* Utils */,
@@ -134,7 +134,7 @@
 				34752272292F6BB000A63C1C /* Assets.xcassets */,
 				34752274292F6BB000A63C1C /* Preview Content */,
 			);
-			path = TwitterCloneSwiftUI;
+			path = "SocialMediaClone-SwiftUI-MVVM";
 			sourceTree = "<group>";
 		};
 		34752274292F6BB000A63C1C /* Preview Content */ = {
@@ -390,9 +390,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3475226A292F6BAE00A63C1C /* TwitterCloneSwiftUI */ = {
+		3475226A292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 34752279292F6BB000A63C1C /* Build configuration list for PBXNativeTarget "TwitterCloneSwiftUI" */;
+			buildConfigurationList = 34752279292F6BB000A63C1C /* Build configuration list for PBXNativeTarget "SocialMediaClone-SwiftUI-MVVM" */;
 			buildPhases = (
 				34752267292F6BAE00A63C1C /* Sources */,
 				34752268292F6BAE00A63C1C /* Frameworks */,
@@ -402,7 +402,7 @@
 			);
 			dependencies = (
 			);
-			name = TwitterCloneSwiftUI;
+			name = "SocialMediaClone-SwiftUI-MVVM";
 			packageProductDependencies = (
 				34F56145293A510200A52826 /* FirebaseAuth */,
 				34F56147293A510200A52826 /* FirebaseFirestore */,
@@ -410,7 +410,7 @@
 				34F5614B293A510200A52826 /* FirebaseStorage */,
 			);
 			productName = TwitterCloneSwiftUI;
-			productReference = 3475226B292F6BAE00A63C1C /* TwitterCloneSwiftUI.app */;
+			productReference = 3475226B292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -428,7 +428,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 34752266292F6BAE00A63C1C /* Build configuration list for PBXProject "TwitterCloneSwiftUI" */;
+			buildConfigurationList = 34752266292F6BAE00A63C1C /* Build configuration list for PBXProject "SocialMediaClone-SwiftUI-MVVM" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -444,7 +444,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3475226A292F6BAE00A63C1C /* TwitterCloneSwiftUI */,
+				3475226A292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM */,
 			);
 		};
 /* End PBXProject section */
@@ -619,7 +619,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TwitterCloneSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SocialMediaClone-SwiftUI-MVVM/Preview Content\"";
 				DEVELOPMENT_TEAM = MW2482B7WH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -648,7 +648,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TwitterCloneSwiftUI/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SocialMediaClone-SwiftUI-MVVM/Preview Content\"";
 				DEVELOPMENT_TEAM = MW2482B7WH;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -673,7 +673,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		34752266292F6BAE00A63C1C /* Build configuration list for PBXProject "TwitterCloneSwiftUI" */ = {
+		34752266292F6BAE00A63C1C /* Build configuration list for PBXProject "SocialMediaClone-SwiftUI-MVVM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				34752277292F6BB000A63C1C /* Debug */,
@@ -682,7 +682,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		34752279292F6BB000A63C1C /* Build configuration list for PBXNativeTarget "TwitterCloneSwiftUI" */ = {
+		34752279292F6BB000A63C1C /* Build configuration list for PBXNativeTarget "SocialMediaClone-SwiftUI-MVVM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3475227A292F6BB000A63C1C /* Debug */,
