@@ -5,13 +5,14 @@
 //  Created by NomoteteS on 15.12.2022.
 //
 
+import Firebase
 import FirebaseStorage
 import UIKit
-
+import SwiftUI
 
 struct ImageUploader {
     
-    static func uploadImage(image: UIImage, completion: @escaping(String) -> Void) {
+    static func uploadImage(image: UIImage,, completion: @escaping(String) -> Void) {
         guard let imageData = image.jpegData(compressionQuality: 0.5) else {return}
         
         let filename = NSUUID().uuidString
