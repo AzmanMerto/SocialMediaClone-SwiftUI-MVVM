@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3444777B2939286000E34B58 /* AuthHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3444777A2939286000E34B58 /* AuthHeaderView.swift */; };
+		345B3B23294B4F2800F3B9F4 /* ImageUploader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 345B3B22294B4F2800F3B9F4 /* ImageUploader.swift */; };
 		346501D3293B6C1500A8CEAD /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 346501D2293B6C1500A8CEAD /* ImagePicker.swift */; };
 		3475226F292F6BAE00A63C1C /* TwitterCloneSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3475226E292F6BAE00A63C1C /* TwitterCloneSwiftUIApp.swift */; };
 		34752271292F6BAE00A63C1C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34752270292F6BAE00A63C1C /* ContentView.swift */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		3444777A2939286000E34B58 /* AuthHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthHeaderView.swift; sourceTree = "<group>"; };
+		345B3B22294B4F2800F3B9F4 /* ImageUploader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageUploader.swift; sourceTree = "<group>"; };
 		346501D2293B6C1500A8CEAD /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		3475226B292F6BAE00A63C1C /* SocialMediaClone-SwiftUI-MVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SocialMediaClone-SwiftUI-MVVM.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3475226E292F6BAE00A63C1C /* TwitterCloneSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterCloneSwiftUIApp.swift; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 		3475227E292F88EA00A63C1C /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				345B3B22294B4F2800F3B9F4 /* ImageUploader.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -472,6 +475,7 @@
 				346501D3293B6C1500A8CEAD /* ImagePicker.swift in Sources */,
 				34752289292F8B6E00A63C1C /* TweetRowView.swift in Sources */,
 				34752286292F897B00A63C1C /* FeedView.swift in Sources */,
+				345B3B23294B4F2800F3B9F4 /* ImageUploader.swift in Sources */,
 				348E39D62934846B0031CCE0 /* CustomInputField.swift in Sources */,
 				3475229E292FBD4100A63C1C /* TweetFilterViewModel.swift in Sources */,
 				3475226F292F6BAE00A63C1C /* TwitterCloneSwiftUIApp.swift in Sources */,

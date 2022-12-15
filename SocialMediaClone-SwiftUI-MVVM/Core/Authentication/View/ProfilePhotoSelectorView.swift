@@ -13,7 +13,8 @@ struct ProfilePhotoSelectorView: View {
     @State private var profileImage : Image?
     var body: some View {
         VStack{
-            AuthHeaderView(title1: "Setup account", title2: "Add a profile photo")
+            AuthHeaderView(title1: "Setup account",
+                           title2: "Add a profile photo")
             
             Button {
                 showImagePicker.toggle()
@@ -32,6 +33,20 @@ struct ProfilePhotoSelectorView: View {
                 ImagePicker(selectedImage: $selectedImage)
             }.padding(.top,44)
                 
+            if  profileImage != nil {
+                Button {
+                    
+                } label: {
+                    Text("Countinue")
+                        .font(.headline)
+                        .foregroundColor(.white)
+                        .frame(width: 340, height: 50)
+                        .background(Color.blue)
+                        .clipShape(Capsule())
+                        .padding()
+                }.shadow(color: .gray.opacity(0.5), radius: 10, x: 0, y: 0)
+            }
+            
             Spacer()
         }.ignoresSafeArea()
     }
