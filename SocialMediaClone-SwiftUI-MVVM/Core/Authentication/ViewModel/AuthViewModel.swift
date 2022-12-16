@@ -11,10 +11,13 @@ import Firebase
 class AuthViewModel: ObservableObject {
     @Published var userSession: FirebaseAuth.User?
     @Published var didAuthenticationUser = false
+    @Published var currentUser: User?
     private var tempUserSession: FirebaseAuth.User?
     
+    private let service = UserService()
     init() {
         self.userSession = Auth.auth().currentUser
+        self.fetcUser()
     }
     
     
@@ -58,10 +61,19 @@ class AuthViewModel: ObservableObject {
         
         // MARK: Upload to firebase storage
         ImageUploader.uploadImage(image: image) { profileImageUrl in
-            Firestore.firestore().collection("users").document(uid)
+            Firestore.firestore().collection("users")
+                .document(uid)
                 .updateData(["profileImageUrl": profileImageUrl]) { _ in
                     self.userSession = self.tempUserSession
                 }
+        }
+    }
+    
+    func fetcUser() {
+        guard let uid = self.userSession?.uid else { return }
+        
+        service.fetcUser(withUid: uid) { user in
+            self.currentUser = user
         }
     }
 }
