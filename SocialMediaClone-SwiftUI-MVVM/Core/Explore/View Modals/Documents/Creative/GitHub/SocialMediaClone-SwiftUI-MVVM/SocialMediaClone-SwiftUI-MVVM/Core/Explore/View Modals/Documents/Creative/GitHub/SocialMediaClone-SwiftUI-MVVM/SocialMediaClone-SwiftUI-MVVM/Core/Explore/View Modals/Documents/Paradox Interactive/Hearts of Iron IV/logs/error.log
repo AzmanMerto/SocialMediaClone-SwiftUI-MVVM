@@ -1,0 +1,1034 @@
+[22:44:44][pdxmeshtype.cpp:596]: Failed to find animation: "GER_heavy_armor_0_idle_animation"... Make sure it is declared in a .asset file.
+[22:44:44][pdxmeshtype.cpp:596]: Failed to find animation: "GER_heavy_armor_0_moving_animation"... Make sure it is declared in a .asset file.
+[22:44:44][pdxmeshtype.cpp:596]: Failed to find animation: "GER_heavy_armor_0_idle_animation"... Make sure it is declared in a .asset file.
+[22:44:44][pdxmeshtype.cpp:596]: Failed to find animation: "GER_heavy_armor_0_moving_animation"... Make sure it is declared in a .asset file.
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of LBA_paratrooper_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_1_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_infantry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_1_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_paratrooper_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_1_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_marine_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_cavalry_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_cavalry_1_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_cavalry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_cavalry_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_bicycle_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_bicycle_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_artillery_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_mechanized_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_mechanized_1_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_mechanized_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_mechanized_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of ALG_mechanized_3_entity added to entity system
+[22:44:46][pdx_entity.cpp:2063]: Duplicate of POR_infantry_entity added to entity system
+[22:44:46][pdx_audio.cpp:1039]: Missing sound effect: distance_super_heavy_battleship_destroyed
+[22:44:46][pdx_entity.cpp:127]: Couldn't find sound effect: "distance_super_heavy_battleship_destroyed"
+[22:44:46][pdx_audio.cpp:1039]: Missing sound effect: distance_super_heavy_battleship_destroyed
+[22:44:46][pdx_entity.cpp:127]: Couldn't find sound effect: "distance_super_heavy_battleship_destroyed"
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of FRA_camelry_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of fighter_equipment_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2063]: Duplicate of GRE_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of TUR_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of TUR_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of TUR_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of TUR_light_plane_entity added to entity system
+[22:44:46][pdx_audio.cpp:1039]: Missing sound effect: distance_airplane_idle
+[22:44:46][pdx_entity.cpp:127]: Couldn't find sound effect: "distance_airplane_idle"
+[22:44:46][pdx_audio.cpp:1039]: Missing sound effect: distance_airplane_medium_idle_01
+[22:44:46][pdx_entity.cpp:127]: Couldn't find sound effect: "distance_airplane_medium_idle_01"
+[22:44:46][pdx_audio.cpp:1039]: Missing sound effect: distance_airplane_heavy_idle_01
+[22:44:46][pdx_entity.cpp:127]: Couldn't find sound effect: "distance_airplane_heavy_idle_01"
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of fighter_equipment_0_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of SWE_CAS_equipment_2_entity added to entity system
+[22:44:46][pdx_entity.cpp:2063]: Duplicate of MEX_heavy_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2063]: Duplicate of SPR_anarchist_spain_medium_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of BYZ_UNIFIED_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of BYZ_UNIFIED_light_plane_entity added to entity system
+[22:44:46][pdx_entity.cpp:2191]: Duplicate of BYZ_UNIFIED_light_plane_entity added to entity system
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 1739
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 1744
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 1749
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 1787
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 1792
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 1797
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 2271
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2281
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2292
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2303
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2314
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2325
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2335
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2345
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2355
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2365
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2376
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2396
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2478
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2488
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2512
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2527
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 2542
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2552
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2562
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2572
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2585
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2595
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2614
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2629
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 2644
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2654
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2664
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2674
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2687
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2697
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2718
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2733
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 2752
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2762
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2772
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2782
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2799
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2814
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2833
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2844
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 2854
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2864
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2869
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 2943
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2960
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2970
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 2985
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 2995
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3005
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3015
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3025
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3035
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3052
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3062
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3077
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3087
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3097
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3107
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3117
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3127
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3142
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3152
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3166
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3176
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3186
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3196
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3206
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3216
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3233
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3243
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3263
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3273
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3287
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3297
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3307
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3317
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3334
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3344
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3360
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3370
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3384
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3394
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3404
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3414
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3431
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3441
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 3457
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3467
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3481
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3491
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3501
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3511
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3609
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3624
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3634
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3649
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3665
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3675
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3690
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3700
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3716
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3726
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3741
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3751
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3767
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3777
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3791
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3801
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3816
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3826
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3841
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3851
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3867
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3877
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 3891
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3901
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3912
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3923
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3934
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3945
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3974
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3979
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3984
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 3989
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 3997
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4002
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4007
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4025
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4035
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4053
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4063
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4073
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4083
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4093
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4103
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4120
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4130
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4148
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4158
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4168
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4178
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4188
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4198
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4215
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4225
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4243
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4253
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4263
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4273
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4283
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4293
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4309
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4319
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4337
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4347
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4357
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4367
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4377
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4387
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4403
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4413
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4431
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4441
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4451
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4461
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4471
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4481
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4498
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4508
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4526
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4536
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4546
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4556
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4566
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4576
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4593
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4603
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4621
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4631
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4641
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4651
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4661
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4671
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4687
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4697
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4715
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4725
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4735
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4745
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4755
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4765
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4781
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4791
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4809
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4819
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4829
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4839
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4849
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4859
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4874
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4884
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4902
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4912
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4922
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4932
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4942
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 4952
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 4969
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 4979
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 4997
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5007
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5017
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5027
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5037
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5047
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5064
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5074
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5092
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5102
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5112
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5122
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5132
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5142
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5158
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5168
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5186
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5196
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5206
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5216
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5226
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5236
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5253
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5263
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5281
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5291
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5301
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5311
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5321
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5331
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5347
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5357
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5375
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5385
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5395
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5405
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5415
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5425
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5441
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5451
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5469
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5479
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5489
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5499
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5509
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5519
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5536
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5546
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5564
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5574
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5584
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5594
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5604
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5614
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5630
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5640
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5658
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5668
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5678
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5688
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5698
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5708
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5725
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5735
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5753
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5763
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5773
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5783
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5793
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5803
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5819
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5829
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5847
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5857
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5867
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5877
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5887
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5897
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 5913
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5923
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5941
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5951
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 5961
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 5971
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5981
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 5991
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6007
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6017
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6035
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6045
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6055
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6065
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6075
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6085
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6101
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6111
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6129
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6139
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6149
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6159
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6169
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6179
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6195
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6205
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6223
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6233
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6243
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6253
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6263
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6273
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6289
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6299
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6317
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6327
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 6337
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6347
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6357
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity FRA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6367
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6375
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6380
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6385
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6402
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6412
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6430
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6440
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6450
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6460
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6470
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6480
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6497
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6507
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6525
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6535
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6545
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6555
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6565
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6575
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6592
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6602
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6620
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6630
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6640
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6650
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6660
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6670
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6688
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6698
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6716
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6726
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6736
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6746
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6756
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6766
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6784
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6794
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6812
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6822
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6832
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6842
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6852
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6862
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6880
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6890
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6908
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6918
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6928
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6938
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6948
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 6958
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 6976
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 6986
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7004
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7014
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7024
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7034
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7044
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7054
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7072
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7082
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7100
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7110
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7120
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7130
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7140
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7150
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7167
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7177
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7195
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7205
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7215
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7225
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7235
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7245
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7263
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7273
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7291
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7301
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7311
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7321
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7331
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7341
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7358
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7368
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7386
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7396
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7406
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7416
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7426
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7436
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 7455
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7465
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 7483
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7493
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7503
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7518
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7528
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7538
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 7555
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7565
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 7583
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7593
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7603
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7613
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7623
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity ENG_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7633
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7646
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7656
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7666
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7683
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7693
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7711
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7721
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7731
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_heavy_armor_1_entity, in file "gfx/entities/units_tanks.asset", near line 7741
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7752
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity USA_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7762
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7905
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7921
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7931
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7949
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7959
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 7969
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 7979
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7989
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 7999
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8016
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8026
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8044
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8054
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8064
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8074
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 8084
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 8094
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8250
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_light_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8281
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8296
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8306
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8321
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_heavy_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 8336
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_modern_armor_entity, in file "gfx/entities/units_tanks.asset", near line 8347
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_super_heavy_armor_entity, in file "gfx/entities/units_tanks.asset", near line 8359
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 8949
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 9031
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 9056
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 9111
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity SOV_light_armor_0_entity, in file "gfx/entities/units_tanks.asset", near line 9124
+[22:44:46][assetfactory.cpp:877]: Couldn't find parent clone entity GER_medium_armor_2_entity, in file "gfx/entities/units_tanks.asset", near line 9310
+[22:44:47][equipment.cpp:2736]: Asked to duplicate small_plane_airframe into jet_fighter_equipment which is already defined
+[22:44:47][equipment.cpp:2736]: Asked to duplicate large_plane_airframe into strat_maritime_equipment which is already defined
+[22:44:47][persistent.cpp:48]: Error: "Unexpected token: flying_boat_equipment, near line: 129" in file: "common/units/air.txt" near line: 129
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_SWE_advanced_light_td_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_JAP_advanced_heavy_art_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_JAP_basic_light_art_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_SWE_advanced_light_art_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_SWE_improved_light_art_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_ENG_advanced_light_spaa_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_ENG_improved_light_spaa_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_USA_basic_light_spaa_medium
+[22:44:47][equipment_graphic_database.cpp:32]: GFX referenced in equipment graphic database does not exist: GFX_JAP_basic_light_spaa_medium
+[22:44:47][technologysharing.cpp:66]: There is no localization for the technology sharing group name: andean_research_name
+[22:44:47][british_raj.txt:775]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:47][british_raj.txt:787]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:47][british_raj.txt:795]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:47][british_raj.txt:803]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:47][british_raj.txt:807]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:47][czechoslovakia.txt:241]: Value does not belong to designated Script EnumType: light_cruiser not in script_enum_equipment_bonus_type
+[22:44:47][denmark.txt:1010]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:47][france.txt:3429]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:47][france.txt:3433]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:47][france.txt:3441]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][hungary.txt:411]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][hungary.txt:415]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][hungary.txt:419]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:48][hungary.txt:423]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][hungary.txt:427]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][netherlands.txt:2262]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][netherlands.txt:2265]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][netherlands.txt:2268]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][netherlands.txt:2271]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][r56_canada.txt:1393]: Value does not belong to designated Script EnumType: marine not in script_enum_equipment_bonus_type
+[22:44:48][r56_poland.txt:1954]: Value does not belong to designated Script EnumType: light_tank_artillery_equipment not in script_enum_equipment_bonus_type
+[22:44:48][r56_poland.txt:1962]: Value does not belong to designated Script EnumType: light_tank_aa_equipment not in script_enum_equipment_bonus_type
+[22:44:48][r56_soviet.txt:2393]: Value does not belong to designated Script EnumType: modern_tank_destroyer_chassis not in script_enum_equipment_bonus_type
+[22:44:48][persistent.cpp:48]: Error: "Malformed token: Yes, near line: 160" in file: "common/ideas/r56i_laws_gender.txt" near line: 160
+[22:44:48][romania.txt:1480]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][romania.txt:1516]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][romania.txt:1525]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][sweden.txt:554]: Value does not belong to designated Script EnumType: anti_air not in script_enum_equipment_bonus_type
+[22:44:48][sweden.txt:557]: Value does not belong to designated Script EnumType: anti_tank not in script_enum_equipment_bonus_type
+[22:44:48][sweden.txt:1021]: Value does not belong to designated Script EnumType: cat_mechanized_equipment not in script_enum_equipment_bonus_type
+[22:44:48][trigger.cpp:494]: Error: "Not a valid value: No, near line: 1198" in file: "common/ideas/sweden.txt" near line: 1199
+[22:44:48][sweden.txt:1595]: Value does not belong to designated Script EnumType: light_cruiser not in script_enum_equipment_bonus_type
+[22:44:48][switzerland_r56.txt:922]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][switzerland_r56.txt:926]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:48][switzerland_r56.txt:930]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][switzerland_r56.txt:934]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:48][icon_entry.cpp:37]: Icon definition "" does neither look like a file path nor a GFX entry as it does not start with "GFX_"
+[22:44:48][icon_entry.cpp:37]: Icon definition "" does neither look like a file path nor a GFX entry as it does not start with "GFX_"
+[22:44:48][icon_entry.cpp:37]: Icon definition "" does neither look like a file path nor a GFX entry as it does not start with "GFX_"
+[22:44:48][icon_entry.cpp:37]: Icon definition "" does neither look like a file path nor a GFX entry as it does not start with "GFX_"
+[22:44:48][icon_entry.cpp:37]: Icon definition "" does neither look like a file path nor a GFX entry as it does not start with "GFX_"
+[22:44:49][77_traits.txt:923]: Value does not belong to designated Script EnumType: strategic_bomber not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2306]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2327]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2335]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2353]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2357]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_companies_traits.txt:2378]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1308]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1340]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1344]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1364]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1368]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1386]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1434]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1437]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1476]: Value does not belong to designated Script EnumType: light_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1538]: Value does not belong to designated Script EnumType: light_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1550]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:1562]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:2383]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3531]: Value does not belong to designated Script EnumType: light_tank_artillery_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3534]: Value does not belong to designated Script EnumType: medium_tank_artillery_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3537]: Value does not belong to designated Script EnumType: heavy_tank_artillery_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3587]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3596]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3608]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3625]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3654]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3691]: Value does not belong to designated Script EnumType: heavy_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3695]: Value does not belong to designated Script EnumType: medium_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3699]: Value does not belong to designated Script EnumType: light_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3703]: Value does not belong to designated Script EnumType: modern_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3707]: Value does not belong to designated Script EnumType: super_heavy_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3711]: Value does not belong to designated Script EnumType: amphibious_tank_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3797]: Value does not belong to designated Script EnumType: fighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3801]: Value does not belong to designated Script EnumType: hfighter_bomber_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3805]: Value does not belong to designated Script EnumType: flying_boat_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3809]: Value does not belong to designated Script EnumType: med_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][r56_traits.txt:3813]: Value does not belong to designated Script EnumType: strat_maritime_equipment not in script_enum_equipment_bonus_type
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 4789" in file: "common/national_focus/germany.txt" near line: 4790
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 7085" in file: "common/national_focus/germany.txt" near line: 7086
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 7200" in file: "common/national_focus/germany.txt" near line: 7201
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 7207" in file: "common/national_focus/germany.txt" near line: 7208
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2711" in file: "common/national_focus/japan.txt" near line: 2712
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2714" in file: "common/national_focus/japan.txt" near line: 2715
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2717" in file: "common/national_focus/japan.txt" near line: 2718
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2720" in file: "common/national_focus/japan.txt" near line: 2721
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2727" in file: "common/national_focus/japan.txt" near line: 2728
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2737" in file: "common/national_focus/japan.txt" near line: 2738
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2747" in file: "common/national_focus/japan.txt" near line: 2748
+[22:44:49][trigger.cpp:494]: Error: "Not a valid value: YES, near line: 2757" in file: "common/national_focus/japan.txt" near line: 2758
+[22:44:50][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 3898" in file: "common/national_focus/r56_turkey.txt" near line: 3899
+[22:44:50][trigger.cpp:494]: Error: "Not a valid value: No, near line: 2277" in file: "common/national_focus/sweden.txt" near line: 2278
+[22:44:50][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 9205" in file: "common/national_focus/uk.txt" near line: 9206
+[22:44:50][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 9211" in file: "common/national_focus/uk.txt" near line: 9212
+[22:44:50][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 9217" in file: "common/national_focus/uk.txt" near line: 9218
+[22:44:50][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/USA_basic_light_tank_destroyer.dds
+[22:44:50][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/USA_basic_light_tank_destroyer.dds'
+[22:44:50][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/USA_basic_medium_tank_destroyer.dds
+[22:44:50][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/USA_basic_medium_tank_destroyer.dds'
+[22:44:50][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/interface/technologies/USA_improved_medium_tank_destroyer.dds
+[22:44:50][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/interface/technologies/USA_improved_medium_tank_destroyer.dds'
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: strat_bomber_equipment, near line: 168" in file: "common/ai_strategy/CHI.txt" near line: 168
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: strat_bomber_equipment, near line: 159" in file: "common/ai_strategy/CZE.txt" near line: 159
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 94" in file: "common/ai_strategy/r56_BOL.txt" near line: 97
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 222" in file: "common/ai_strategy/r56_COL.txt" near line: 225
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: strat_bomber_equipment, near line: 1143" in file: "common/ai_strategy/r56_ENG.txt" near line: 1143
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: strat_bomber_equipment, near line: 32" in file: "common/ai_strategy/r56_GER.txt" near line: 32
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: flying_boat_equipment, near line: 44" in file: "common/ai_strategy/r56_GER.txt" near line: 44
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: flying_boat_equipment, near line: 43" in file: "common/ai_strategy/r56_ITA.txt" near line: 43
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: strat_bomber_equipment, near line: 29" in file: "common/ai_strategy/r56_JAP.txt" near line: 29
+[22:44:51][persistent.cpp:48]: Error: "Malformed token: flying_boat_equipment, near line: 41" in file: "common/ai_strategy/r56_JAP.txt" near line: 41
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 24" in file: "common/ai_strategy/r56_PRU.txt" near line: 27
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 306" in file: "common/ai_strategy/r56_SIA.txt" near line: 309
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 297" in file: "common/ai_strategy/r56_default_z.txt" near line: 301
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: NO, near line: 1871
+Not a valid value: NO, near line: 1874
+Not a valid value: YES, near line: 1879" in file: "common/ai_strategy/r56_default_z.txt" near line: 1880
+[22:44:51][trigger.cpp:494]: Error: "Not a valid value: Yes, near line: 39" in file: "common/ai_strategy_plans/BHU_alternate_strategy_plan.txt" near line: 43
+[22:44:58][eventtarget.cpp:252]: tried to use character SOV_konstantin_nechayev as scope, but could not find this character in country SOV. Check that recruit_character was done before this.
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:256: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:257: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:58][eventtarget.cpp:252]: tried to use character SOV_vladimir_kosmin as scope, but could not find this character in country SOV. Check that recruit_character was done before this.
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:260: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:261: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:58][eventtarget.cpp:252]: tried to use character SOV_aleksandr_rodzyanko as scope, but could not find this character in country SOV. Check that recruit_character was done before this.
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:264: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:58][effect.cpp:535]: history/countries/SOV - Soviet union.txt:265: set_character_flag: Invalid Scope, supported: Character, provided: Country
+[22:44:59][equipment_effects.cpp:836]: 'history/countries/POL - Poland.txt:178: create_equipment_variant': 'D'Entrecasteaux Hulk' - Invalid module setup. Design lacks one or more required modules:
+   Battery
+   Engine
+[22:44:59][effectimplementation.cpp:5123]: history/countries/LIT - Lithuania.txt:64: recruit_character: Unknown character LIT_juoza_barzda_bradauskas
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/LAT/r56_portrait_LAT_Grosbarts_Oto.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/LAT/r56_portrait_LAT_Nikolajs_Duze.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/LAT/r56_portrait_LAT_Teodoros_Spade.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/MNT/r56_portrait_MNT_Peko_Dapcevic.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/MNT/r56_portrait_MNT_Velimir_Terzic.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/BOS/r56_portrait_BOS_Slavko_Rodic.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/SER/r56_portrait_SER_Koca_Popovic.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/SLV/r56_portrait_SLV_Dusan_Kveder.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/BOS/r56_portrait_BOS_Milutin_Moraca.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/CRO/r56_portrait_CRO_Gojko_Nikolis.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/CRO/r56_portrait_CRO_Josip_Grubelic.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/SER/r56_Konstantin_Musicki_Portrait.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_Turkey_Generic_land_1.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_generic_admiral_GRE_1.dds into small portrait does not exist
+[22:44:59][equipment_effects.cpp:836]: 'history/countries/MEX - Mexico.txt:253: create_equipment_variant': 'Progreso Class' - Modular type 'ship_hull_cruiser_1' appears to not have been unlocked for MEX as no chassis variant exists. Unlocked the tech before creating any variants to avoid bugs.
+[22:44:59][equipment_effects.cpp:836]: 'history/countries/EGY - Egypt.txt:387: create_equipment_variant': 'Farouq Class' - Modular type 'ship_hull_cruiser_coastal_defense_ship' appears to not have been unlocked for EGY as no chassis variant exists. Unlocked the tech before creating any variants to avoid bugs.
+[22:44:59][equipment_effects.cpp:836]: 'history/countries/EGY - Egypt.txt:438: create_equipment_variant': 'Ex-M-271 Class' - Modular type 'ship_hull_submarine_1' appears to not have been unlocked for EGY as no chassis variant exists. Unlocked the tech before creating any variants to avoid bugs.
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_GER_generic_navy_4.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/CAM/r56_portrait_CAM_Sisowath_Monivong.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/INS/r56_portrait_INS_Simon_Hendrik_Spoor.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/kr_generic/Portrait_Central_Asia_Generic_land_new_4.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_generic_politician_asia_2_democracy.dds into small portrait does not exist
+[22:44:59][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/leaders/Africa/Portrait_Africa_Generic_6.dds
+[22:44:59][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/leaders/Africa/Portrait_Africa_Generic_6.dds'
+[22:44:59][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/leaders/r56_generic/r56_portrait_generic_politician_africa_3.dds
+[22:44:59][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/leaders/r56_generic/r56_portrait_generic_politician_africa_3.dds'
+[22:44:59][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/leaders/r56_generic/r56_portrait_generic_politician_africa_5.dds
+[22:44:59][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/leaders/r56_generic/r56_portrait_generic_politician_africa_5.dds'
+[22:44:59][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/leaders/Africa/Portrait_Africa_Generic_7.dds
+[22:44:59][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/leaders/Africa/Portrait_Africa_Generic_7.dds'
+[22:44:59][texturehandler.cpp:160]: Texture Handler encountered missing texture file: gfx/leaders/WHY/r56w_portrait_WHY_greatexperiment.dds
+[22:44:59][texturehandler.cpp:216]: Couldn't find texture file: 'gfx/leaders/WHY/r56w_portrait_WHY_greatexperiment.dds'
+[22:44:59][effectimplementation.cpp:5025]: history/countries/WHY - Tender Loving Empire.txt:103: create_field_marshal: Portrait not found: gfx/leaders/WHY/r56w_portrait_WHY_greatexperiment.dds
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_kappa.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_crouching_lemur.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_foxhound.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_murder_mountain.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_dalnar.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_faust.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_chairman_meow.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_aiydem.dds into small portrait does not exist
+[22:44:59][effectimplementation.cpp:5025]: history/countries/WHY - Tender Loving Empire.txt:167: create_navy_leader: Portrait not found: gfx/leaders/WHY/Portrait_USA_Earnest_King.dds
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_macrov.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_skullcrusher.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/WHY/r56w_portrait_WHY_admiral_caon.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_ITA_generic_land_1.dds into small portrait does not exist
+[22:44:59][character_manager.cpp:307]: Result from converting gfx/leaders/r56_generic/r56_portrait_commonwealth_generic_land_3.dds into small portrait does not exist
+[22:45:30][persistent.cpp:48]: Error: "JAP has no carrier air base with name 'Ryujo'. Is the OOB file containing the carrier loaded after this file?: {, near line: 102
+JAP has no carrier air base with name 'Kaga'. Is the OOB file containing the carrier loaded after this file?: {, near line: 109
+JAP has no carrier air base with name 'Akagi'. Is the OOB file containing the carrier loaded after this file?: {, near line: 118" in file: "history/units/JAP_1936_air_legacy.txt" near line: 127
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "amphibious_tank_3_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "amphibious_tank_3_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "amphibious_tank_3_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "amphibious_tank_3_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "advanced_light_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:45:33][containerwindow.cpp:852]: interface/countrytechtreeview.gui (line 842 ): Could not find "super_heavy_tank_a_tree" in window armour_folder
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:07][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[22:48:14][eventtarget.cpp:252]: tried to use character ETH_balcho_safo as scope, but could not find this character in country ETH. Check that recruit_character was done before this.
+[22:48:14][effect.cpp:535]: common/decisions/ETH.txt:2571: unit_leader_event: Invalid Scope, supported: Character, provided: Country
+[22:48:54][character_manager.cpp:307]: Result from converting gfx/leaders/kr_generic/Portrait_Africa_Generic_land_new_5.dds into small portrait does not exist
+[22:52:42][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:52:43][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:52:44][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:57:01][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:57:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[22:57:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[22:57:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:57:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[22:57:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:57:03][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[22:57:04][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[22:58:57][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:59:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[22:59:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[23:07:12][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:07:12][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:07:13][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:07:13][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:01][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:03][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:04][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:05][character.cpp:1099]: events/LAR_Spain.txt:695: set_nationality: Luis González de Ubieta already has an advisor role with slot type navy_chief
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_andres_saliquet.dds into small portrait does not exist
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_Alfredo_Kindelan.dds into small portrait does not exist
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_Luis_Orgaz_Yoldi.dds into small portrait does not exist
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_Jose_Moscardo_Ituarte.dds into small portrait does not exist
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_Fernando_Barron.dds into small portrait does not exist
+[23:08:05][character_manager.cpp:307]: Result from converting gfx/leaders/SPR/r56_portrait_SPR_Rafael_Estrada.dds into small portrait does not exist
+[23:08:32][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:34][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:35][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:08:37][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:25][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:27][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:29][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:30][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:32][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:33][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:10:35][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:11:37][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:11:39][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:11:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:11:42][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:11:54][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:12:00][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:12:02][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:37][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:37][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:37][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:14:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:15:05][effectimplementation.cpp:484]: events/indonesia.txt:1477: create_country_leader: A. T. van Starkenborgh Stachouwer already has an ideology Despotism
+[23:15:08][effectimplementation.cpp:3741]: common/national_focus/r56_arab_minor_military_shared.txt:161: add_units_to_division_template Trying to execute scripted effect add_units_to_division_template on unlocked template (Tribal Levy), this is unreliable because the name could change
+[23:15:28][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_support_battalions_icon_small
+[23:16:02][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:04][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:06][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:07][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:15][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:16:25][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:17:28][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:17:30][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:17:40][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:17:43][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:18:00][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:18:02][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:18:04][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:19][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:23][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:24][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:30][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:32][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:19:34][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:20:32][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:20:32][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:20:34][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:20:34][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:06][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:06][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:41][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:42][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[23:21:45][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[23:21:45][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[23:21:48][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:48][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:49][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:49][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:51][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:21:51][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:22:49][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:22:50][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:22:52][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:22:54][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:23:00][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:23:06][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_support_battalions_icon_small
+[23:24:13][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:13][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:18][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:18][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:20][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:20][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:23][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:23][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:25][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:25][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:26][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:24:26][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:27:35][containerwindow.cpp:1016]: interface/operationoverview.gui (line 508 ): Could not find "portrait_dismiss_btn" in window operation_operative_leader_portrait_window
+[23:28:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:21][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:22][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:22][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:24][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:24][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:26][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:26][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:31][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:31][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:33][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:33][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:35][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:28:35][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:30:18][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_support_battalions_icon_small
+[23:30:30][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_support_battalions_icon_small
+[23:32:10][effectimplementation.cpp:11022]: Song doesnt exist: peace_in_our_time
+[23:34:52][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:34:52][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:34:54][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:34:54][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:34:56][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:34:56][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:02][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:02][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:14][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:14][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:16][effectimplementation.cpp:5366]: Character already has a country leader role for ideology: Despotism: common/scripted_effects/WTT_warlord_scripted_effects.txt:372: add_country_leader_role
+[23:35:16][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:16][gameidler.cpp:1524]: AI tried to post an invalid command: order_assign_command
+[23:35:21][character.cpp:1099]: events/r56_ruthenia.txt:32: set_nationality: Lev Prchala already has an advisor role with slot type army_chief
+[23:39:09][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[23:39:09][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[23:39:09][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[23:39:24][containerwindow.cpp:1016]: interface/operationoverview.gui (line 508 ): Could not find "portrait_dismiss_btn" in window operation_operative_leader_portrait_window
+[23:39:47][effectimplementation.cpp:5366]: Character already has a country leader role for ideology: Socialism: events/ICE_events.txt:101: add_country_leader_role
+[23:39:47][effectimplementation.cpp:5366]: Character already has a country leader role for ideology: Moderatism: events/ICE_events.txt:110: add_country_leader_role
+[23:40:34][triggerbase.cpp:536]: common/decisions/TUR.txt:2686: : invalid event target: event_target:TUR_kurdish_state_event_target
+[23:40:34][triggerbase.cpp:536]: common/decisions/TUR.txt:2695: : invalid event target: event_target:TUR_kurdish_state_event_target
+[23:40:34][effectbase.cpp:302]: common/decisions/TUR.txt:2688: : invalid event target: event_target:TUR_kurdish_state_event_target
+[23:41:18][state_effect_implementation.cpp:1864]: common/national_focus/egypt.txt:6911: add_compliance North Darfur does not have resistance
+[23:45:34][character_manager.cpp:307]: Result from converting gfx/leaders/SWI/r56_portrait_SWI_Henri_Guisan.dds into small portrait does not exist
+[23:47:06][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:38: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[23:47:06][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:55: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[23:48:14][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:38: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[23:48:14][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:55: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[23:49:27][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[23:49:27][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[23:49:27][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[23:49:27][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[23:49:27][graphics.cpp:1373]: Failed to create gui object. Could not find sprite type [GFX_medal_collection]
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Tadeusz_Kutrzeba.dds into small portrait does not exist
+[23:50:11][effectimplementation.cpp:4896]: events/r56_Poland.txt:7126: create_field_marshal: Tadeusz Kutrzeba already has a unit leader role General
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Roman_Abraham.dds into small portrait does not exist
+[23:50:11][effectimplementation.cpp:4896]: events/r56_Poland.txt:7140: create_corps_commander: Roman Abraham already has a unit leader role General
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Stefan_Rowecki.dds into small portrait does not exist
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Rudolf_Prich.dds into small portrait does not exist
+[23:50:11][effectimplementation.cpp:4896]: events/r56_Poland.txt:7174: create_corps_commander: Rudolf Prich already has a unit leader role General
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Rudolf_Dreszer.dds into small portrait does not exist
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Zygmunt_Podhorski.dds into small portrait does not exist
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Juliusz_Zulauf.dds into small portrait does not exist
+[23:50:11][effectimplementation.cpp:4896]: events/r56_Poland.txt:7222: create_corps_commander: Juliusz Zulauf already has a unit leader role General
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Franciszek_Alter.dds into small portrait does not exist
+[23:50:11][character_manager.cpp:307]: Result from converting gfx/leaders/POL/r56_portrait_POL_Ludwik_Kmicic_Skrzynski.dds into small portrait does not exist
+[23:58:48][effectimplementation.cpp:22076]: common/national_focus/persia.txt:267: build_railway: province 1982 and 1922 are not neighbours
+[00:01:09][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:10][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:10][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:11][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:12][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:13][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:14][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:01:15][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:02:01][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:02:01][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:02:05][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:02:07][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:02:08][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:06:51][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:06:52][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:06:53][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:06:53][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:07:43][eventmanager.cpp:381]: events/LAR_NewsEvents.txt:5: lar_news.1: No valid option for event. This might be a script bug
+[00:11:18][effect.cpp:535]: common/scripted_effects/r56_EGY_scripted_effects.txt:423: add_equipment_to_stockpile: Invalid Scope, supported: Country, provided: State
+[00:12:50][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:38: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[00:12:50][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:55: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[00:15:05][effectimplementation.cpp:3804]: common/decisions/ITA.txt:4256: add_units_to_division_template did not find template for Truppe Irregolari di Cammelli in add_units_to_division_template
+[00:19:58][equipment_effects.cpp:317]: common/national_focus/malaysia.txt:1505: add_equipment_to_stockpile: adding an archetype equipment without equipment existing in country
+[00:19:58][equipment_effects.cpp:317]: common/national_focus/malaysia.txt:1510: add_equipment_to_stockpile: adding an archetype equipment without equipment existing in country
+[00:24:26][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:24:26][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:24:26][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:26:30][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:26:30][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:26:30][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:26:33][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:26:33][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:29:04][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:29:07][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:29:08][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small
+[00:29:09][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small
+[00:29:11][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:29:15][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:29:42][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:33:12][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:38: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[00:33:12][trigger.cpp:394]: common/on_actions/05_lar_on_actions.txt:55: is_operation_type: Invalid Scope, supported: Operation, provided: Character
+[00:33:52][effectimplementation.cpp:11022]: Song doesnt exist: arsenal_of_democracy
+[00:34:12][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_all_armor_icon_small
+[00:34:12][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:34:12][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_tanks_icon_small
+[00:34:14][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small
+[00:34:14][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small
+[00:34:15][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small
+[00:34:15][containerwindow.cpp:777]: interface/countrytechtreeview.gui (line 4722 ): Could not find "researchtime_label" in window unlock_tech_info_window
+[00:36:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:02][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:03][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:03][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:05][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:06][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_army_icon_small
+[00:36:11][bitmapfont.cpp:1350]: Couldnt find texticon: unit_category_front_line_icon_small

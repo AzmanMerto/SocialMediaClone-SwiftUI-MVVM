@@ -1,0 +1,113 @@
+{
+  "feedVersion": "2.1",
+  "context": "hoi4-steam",
+  "slotTypes": [
+    {
+      "slotType": "main",
+      "contentGroups": [],
+      "mixedContent": [
+        {
+          "id": "c89d100d-278b-41f4-a8a2-9fdaf75550da",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 100,
+            "visible": {
+              "from": "2021-01-20T15:00:00Z",
+              "until": "2029-06-11T07:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": "button_text_1"
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/600839578919ac1a490addad/original.jpg"
+            },
+            "link": {
+              "href": "pdxlaun://accountonboarding"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "secondary",
+      "contentGroups": [],
+      "mixedContent": [
+        {
+          "id": "68976afb-8fb1-428f-b2a5-e90c6e7b11c0",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1,
+            "targetSlot": "secondary-1",
+            "visible": {
+              "from": "2021-01-20T15:00:00Z",
+              "until": "2029-10-13T12:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/600841e84b91ad0221991596/original.jpg",
+              "opacity": 100
+            },
+            "link": {
+              "href": "https://www.youtube.com/channel/UC1JOnWZrVWKzX3UMdpnvuMg?utm_source=launcher-hoi&utm_medium=launcherv2&utm_content=main&utm_campaign=placeholder"
+            }
+          }
+        },
+        {
+          "id": "ef8a9f3c-24a8-4a41-bd7d-4540372957ff",
+          "contentType": "image+button",
+          "settings": {
+            "weight": 1000,
+            "targetSlot": "secondary-2",
+            "visible": {
+              "from": "2021-01-20T15:00:00Z",
+              "until": "2029-01-05T18:00:00Z"
+            }
+          },
+          "content": {
+            "title": {
+              "en": ""
+            },
+            "text": {
+              "en": ""
+            },
+            "buttonText": {
+              "en": ""
+            },
+            "image": {
+              "src": "https://appboy-images.com/appboy/communication/assets/image_assets/images/600841e8d3d4dd3a850d4323/original.jpg"
+            },
+            "link": {
+              "href": "https://twitter.com/HOI_Game"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "slotType": "expand",
+      "mixedContent": []
+    },
+    {
+      "slotType": "expand_wide",
+      "mixedContent": []
+    }
+  ]
+}

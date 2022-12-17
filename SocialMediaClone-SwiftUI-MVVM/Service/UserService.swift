@@ -27,7 +27,7 @@ struct UserService {
                 guard let documents = snapshot?.documents else {return}
                 
                 documents.forEach { document in
-                    guard let user = try? documents.data(as: User.self) else {return}
+                    guard let user = try? document.data(as: User.self) else {return}
                     users.append(user)
 
                 }

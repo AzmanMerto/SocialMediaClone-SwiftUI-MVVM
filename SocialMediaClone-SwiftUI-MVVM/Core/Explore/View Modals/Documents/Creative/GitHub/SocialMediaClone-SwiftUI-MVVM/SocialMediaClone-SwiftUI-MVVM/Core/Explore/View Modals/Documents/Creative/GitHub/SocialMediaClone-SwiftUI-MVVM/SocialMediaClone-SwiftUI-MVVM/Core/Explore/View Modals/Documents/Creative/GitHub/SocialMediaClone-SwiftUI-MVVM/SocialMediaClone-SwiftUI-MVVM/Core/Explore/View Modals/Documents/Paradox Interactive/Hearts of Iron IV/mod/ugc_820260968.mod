@@ -1,0 +1,16 @@
+version="1.10.3"
+tags={
+	"Alternative History"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"National Focuses"
+	"Technologies"
+}
+name="The Road to 56"
+supported_version="1.12.6"
+path="/Users/nomotetes/Library/Application Support/Steam/steamapps/workshop/content/394360/820260968"
+remote_file_id="820260968"

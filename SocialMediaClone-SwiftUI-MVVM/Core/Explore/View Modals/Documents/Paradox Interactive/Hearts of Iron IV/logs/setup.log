@@ -1,0 +1,1550 @@
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/unit_modifiers/unit_modifiers.txt' #0
+[22:44:47][modifier.cpp:128]: StaticModifier #0 tag = _test_power_balance_mod name = _test_power_balance_mod
+[22:44:47][modifier.cpp:128]: StaticModifier #1 tag = weather_rain_light name = Rain
+[22:44:47][modifier.cpp:128]: StaticModifier #2 tag = weather_rain_heavy name = Storm
+[22:44:47][modifier.cpp:128]: StaticModifier #3 tag = weather_snow name = Snowing
+[22:44:47][modifier.cpp:128]: StaticModifier #4 tag = weather_blizzard name = Blizzard
+[22:44:47][modifier.cpp:128]: StaticModifier #5 tag = weather_sandstorm name = Sandstorm
+[22:44:47][modifier.cpp:128]: StaticModifier #6 tag = weather_arctic_water name = Arctic Water
+[22:44:47][modifier.cpp:128]: StaticModifier #7 tag = weather_mud name = Mud
+[22:44:47][modifier.cpp:128]: StaticModifier #8 tag = weather_extreme_cold name = Extremely cold
+[22:44:47][modifier.cpp:128]: StaticModifier #9 tag = weather_very_cold name = Very cold
+[22:44:47][modifier.cpp:128]: StaticModifier #10 tag = weather_very_hot name = Very hot
+[22:44:47][modifier.cpp:128]: StaticModifier #11 tag = weather_extreme_hot name = Extremely hot
+[22:44:47][modifier.cpp:128]: StaticModifier #12 tag = weather_ground_snow_medium name = Snow
+[22:44:47][modifier.cpp:128]: StaticModifier #13 tag = weather_ground_snow_high name = Deep snow
+[22:44:47][modifier.cpp:128]: StaticModifier #14 tag = flooded name = Flooded
+[22:44:47][modifier.cpp:128]: StaticModifier #15 tag = unplanned_offensive name = Unplanned Offensive
+[22:44:47][modifier.cpp:128]: StaticModifier #16 tag = night name = Night
+[22:44:47][modifier.cpp:128]: StaticModifier #17 tag = resistance_effect_base name = resistance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #18 tag = resistance_effect name = HLocal resistance!
+[22:44:47][modifier.cpp:128]: StaticModifier #19 tag = compliance_effect_base name = compliance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #20 tag = compliance_effect name = compliance_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #21 tag = non_core name = Non-Core
+[22:44:47][modifier.cpp:128]: StaticModifier #22 tag = non_core_controller name = Non-Core Controller
+[22:44:47][modifier.cpp:128]: StaticModifier #23 tag = lacking_consumer_goods name = lacking_consumer_goods
+[22:44:47][modifier.cpp:128]: StaticModifier #24 tag = gain_focus name = gain_focus
+[22:44:47][modifier.cpp:128]: StaticModifier #25 tag = ROM_license_german_equipment name = License German Equipment
+[22:44:47][modifier.cpp:128]: StaticModifier #26 tag = ROM_foreign_motor_company name = Automotive Industry Contacts
+[22:44:47][modifier.cpp:128]: StaticModifier #27 tag = HUN_dynastic_ties_license name = Royal Support
+[22:44:47][modifier.cpp:128]: StaticModifier #28 tag = YUG_western_license name = Yugoslavian Purchasing Commission
+[22:44:47][modifier.cpp:128]: StaticModifier #29 tag = FRA_coordinate_rearmament name = Coordinate Rearmament
+[22:44:47][modifier.cpp:128]: StaticModifier #30 tag = HUN_stubborn_fools name = Stubborn Fools
+[22:44:47][modifier.cpp:128]: StaticModifier #31 tag = ROM_military_modernization name = Military Modernization
+[22:44:47][modifier.cpp:128]: StaticModifier #32 tag = free_license name = Free License
+[22:44:47][modifier.cpp:128]: StaticModifier #33 tag = ITA_military_agreements name = Military Agreements
+[22:44:47][modifier.cpp:128]: StaticModifier #34 tag = stability_good_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #35 tag = stability_bad_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #36 tag = war_support_good_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #37 tag = war_support_bad_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #38 tag = war_support_during_war name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #39 tag = attache_sent name = Attaché sent
+[22:44:47][modifier.cpp:128]: StaticModifier #40 tag = diff_very_easy_player name = Civilian Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #41 tag = diff_easy_player name = Recruit Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #42 tag = diff_normal_player name = Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #43 tag = diff_hard_player name = Veteran Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #44 tag = diff_very_hard_player name = Elite Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #45 tag = diff_very_easy_ai name = diff_very_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #46 tag = diff_easy_ai name = diff_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #47 tag = diff_normal_ai name = diff_normal_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #48 tag = diff_hard_ai name = diff_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #49 tag = diff_very_hard_ai name = diff_very_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #50 tag = diff_strong_ai_generic name = Stronger AI
+[22:44:47][modifier.cpp:128]: StaticModifier #51 tag = naval_mines_effect name = naval_mines_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #52 tag = air_wing_experience_bonus_max name = air_wing_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #53 tag = air_wing_experience_malus_min name = air_wing_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #54 tag = ship_experience_bonus_max name = ship_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #55 tag = ship_experience_malus_min name = ship_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #56 tag = carrier_experience_bonus_max name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #57 tag = carrier_experience_malus_min name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #58 tag = pride_of_the_fleet name = Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #59 tag = pride_of_the_fleet_country name = Has Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #60 tag = pride_of_the_fleet_sunk_temporary name = Recently Lost Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #61 tag = water_modifier_shark_infested name = water_modifier_shark_infested
+[22:44:47][modifier.cpp:128]: StaticModifier #62 tag = screening_bonus name = screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #63 tag = capital_screening_bonus name = capital_screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #64 tag = country_is_at_peace name = Country is at peace
+[22:44:47][modifier.cpp:128]: StaticModifier #65 tag = country_is_at_war name = Country is at war
+[22:44:47][modifier.cpp:128]: StaticModifier #66 tag = passive_decryption_modifier name = Enemy cipher is decrypted
+[22:44:47][modifier.cpp:128]: StaticModifier #67 tag = active_decryption_modifier name = Using full intelligence gained from decrypted enemy cipher
+[22:44:47][modifier.cpp:128]: StaticModifier #68 tag = intel_network_state_level_bonus name = operative_mission_icons_small|1Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #69 tag = intel_network_state_level_penalty name = operative_mission_icons_small|1Enemy Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #70 tag = created_intelligence_agency name = Intelligence Agency
+[22:44:47][modifier.cpp:128]: StaticModifier #71 tag = root_out_resistance_mission_modifier name = Root Out Resistance Mission
+[22:44:47][modifier.cpp:128]: StaticModifier #72 tag = operative_nationality_mission name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #73 tag = operative_nationality_operation name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #74 tag = FRA_host_the_german_exiles name = Host the German Exiles
+[22:44:47][modifier.cpp:128]: StaticModifier #75 tag = FRA_reorganized_departments name = Reorganized Departments
+[22:44:47][modifier.cpp:128]: StaticModifier #76 tag = GER_rescued_mussolini name = Rescued Mussolini
+[22:44:47][modifier.cpp:128]: StaticModifier #77 tag = FRA_carry_the_revolution_south name = Carry the Revolution South
+[22:44:47][modifier.cpp:128]: StaticModifier #78 tag = SOV_soviet_chinese_relations name = Soviet-Chinese Relations
+[22:44:47][modifier.cpp:128]: StaticModifier #79 tag = SOV_face_western_fascism_static name = SOV_face_western_fascism_static
+[22:44:47][modifier.cpp:128]: StaticModifier #80 tag = SOV_for_the_common_good_relation name = For the Common Good
+[22:44:47][modifier.cpp:128]: StaticModifier #81 tag = ETH_league_of_nations_volunteer_resolution name = League of Nations International Brigades Resolution
+[22:44:47][modifier.cpp:128]: StaticModifier #82 tag = ETH_support_spain_static_modifier name = Support Spain
+[22:44:47][modifier.cpp:128]: StaticModifier #0 tag = _test_power_balance_mod name = _test_power_balance_mod
+[22:44:47][modifier.cpp:128]: StaticModifier #1 tag = weather_rain_light name = Rain
+[22:44:47][modifier.cpp:128]: StaticModifier #2 tag = weather_rain_heavy name = Storm
+[22:44:47][modifier.cpp:128]: StaticModifier #3 tag = weather_snow name = Snowing
+[22:44:47][modifier.cpp:128]: StaticModifier #4 tag = weather_blizzard name = Blizzard
+[22:44:47][modifier.cpp:128]: StaticModifier #5 tag = weather_sandstorm name = Sandstorm
+[22:44:47][modifier.cpp:128]: StaticModifier #6 tag = weather_arctic_water name = Arctic Water
+[22:44:47][modifier.cpp:128]: StaticModifier #7 tag = weather_mud name = Mud
+[22:44:47][modifier.cpp:128]: StaticModifier #8 tag = weather_extreme_cold name = Extremely cold
+[22:44:47][modifier.cpp:128]: StaticModifier #9 tag = weather_very_cold name = Very cold
+[22:44:47][modifier.cpp:128]: StaticModifier #10 tag = weather_very_hot name = Very hot
+[22:44:47][modifier.cpp:128]: StaticModifier #11 tag = weather_extreme_hot name = Extremely hot
+[22:44:47][modifier.cpp:128]: StaticModifier #12 tag = weather_ground_snow_medium name = Snow
+[22:44:47][modifier.cpp:128]: StaticModifier #13 tag = weather_ground_snow_high name = Deep snow
+[22:44:47][modifier.cpp:128]: StaticModifier #14 tag = flooded name = Flooded
+[22:44:47][modifier.cpp:128]: StaticModifier #15 tag = unplanned_offensive name = Unplanned Offensive
+[22:44:47][modifier.cpp:128]: StaticModifier #16 tag = night name = Night
+[22:44:47][modifier.cpp:128]: StaticModifier #17 tag = resistance_effect_base name = resistance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #18 tag = resistance_effect name = HLocal resistance!
+[22:44:47][modifier.cpp:128]: StaticModifier #19 tag = compliance_effect_base name = compliance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #20 tag = compliance_effect name = compliance_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #21 tag = non_core name = Non-Core
+[22:44:47][modifier.cpp:128]: StaticModifier #22 tag = non_core_controller name = Non-Core Controller
+[22:44:47][modifier.cpp:128]: StaticModifier #23 tag = lacking_consumer_goods name = lacking_consumer_goods
+[22:44:47][modifier.cpp:128]: StaticModifier #24 tag = gain_focus name = gain_focus
+[22:44:47][modifier.cpp:128]: StaticModifier #25 tag = ROM_license_german_equipment name = License German Equipment
+[22:44:47][modifier.cpp:128]: StaticModifier #26 tag = ROM_foreign_motor_company name = Automotive Industry Contacts
+[22:44:47][modifier.cpp:128]: StaticModifier #27 tag = HUN_dynastic_ties_license name = Royal Support
+[22:44:47][modifier.cpp:128]: StaticModifier #28 tag = YUG_western_license name = Yugoslavian Purchasing Commission
+[22:44:47][modifier.cpp:128]: StaticModifier #29 tag = FRA_coordinate_rearmament name = Coordinate Rearmament
+[22:44:47][modifier.cpp:128]: StaticModifier #30 tag = HUN_stubborn_fools name = Stubborn Fools
+[22:44:47][modifier.cpp:128]: StaticModifier #31 tag = ROM_military_modernization name = Military Modernization
+[22:44:47][modifier.cpp:128]: StaticModifier #32 tag = free_license name = Free License
+[22:44:47][modifier.cpp:128]: StaticModifier #33 tag = ITA_military_agreements name = Military Agreements
+[22:44:47][modifier.cpp:128]: StaticModifier #34 tag = stability_good_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #35 tag = stability_bad_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #36 tag = war_support_good_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #37 tag = war_support_bad_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #38 tag = war_support_during_war name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #39 tag = attache_sent name = Attaché sent
+[22:44:47][modifier.cpp:128]: StaticModifier #40 tag = diff_very_easy_player name = Civilian Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #41 tag = diff_easy_player name = Recruit Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #42 tag = diff_normal_player name = Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #43 tag = diff_hard_player name = Veteran Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #44 tag = diff_very_hard_player name = Elite Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #45 tag = diff_very_easy_ai name = diff_very_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #46 tag = diff_easy_ai name = diff_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #47 tag = diff_normal_ai name = diff_normal_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #48 tag = diff_hard_ai name = diff_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #49 tag = diff_very_hard_ai name = diff_very_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #50 tag = diff_strong_ai_generic name = Stronger AI
+[22:44:47][modifier.cpp:128]: StaticModifier #51 tag = naval_mines_effect name = naval_mines_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #52 tag = air_wing_experience_bonus_max name = air_wing_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #53 tag = air_wing_experience_malus_min name = air_wing_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #54 tag = ship_experience_bonus_max name = ship_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #55 tag = ship_experience_malus_min name = ship_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #56 tag = carrier_experience_bonus_max name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #57 tag = carrier_experience_malus_min name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #58 tag = pride_of_the_fleet name = Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #59 tag = pride_of_the_fleet_country name = Has Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #60 tag = pride_of_the_fleet_sunk_temporary name = Recently Lost Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #61 tag = water_modifier_shark_infested name = water_modifier_shark_infested
+[22:44:47][modifier.cpp:128]: StaticModifier #62 tag = screening_bonus name = screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #63 tag = capital_screening_bonus name = capital_screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #64 tag = country_is_at_peace name = Country is at peace
+[22:44:47][modifier.cpp:128]: StaticModifier #65 tag = country_is_at_war name = Country is at war
+[22:44:47][modifier.cpp:128]: StaticModifier #66 tag = passive_decryption_modifier name = Enemy cipher is decrypted
+[22:44:47][modifier.cpp:128]: StaticModifier #67 tag = active_decryption_modifier name = Using full intelligence gained from decrypted enemy cipher
+[22:44:47][modifier.cpp:128]: StaticModifier #68 tag = intel_network_state_level_bonus name = operative_mission_icons_small|1Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #69 tag = intel_network_state_level_penalty name = operative_mission_icons_small|1Enemy Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #70 tag = created_intelligence_agency name = Intelligence Agency
+[22:44:47][modifier.cpp:128]: StaticModifier #71 tag = root_out_resistance_mission_modifier name = Root Out Resistance Mission
+[22:44:47][modifier.cpp:128]: StaticModifier #72 tag = operative_nationality_mission name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #73 tag = operative_nationality_operation name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #74 tag = FRA_host_the_german_exiles name = Host the German Exiles
+[22:44:47][modifier.cpp:128]: StaticModifier #75 tag = FRA_reorganized_departments name = Reorganized Departments
+[22:44:47][modifier.cpp:128]: StaticModifier #76 tag = GER_rescued_mussolini name = Rescued Mussolini
+[22:44:47][modifier.cpp:128]: StaticModifier #77 tag = FRA_carry_the_revolution_south name = Carry the Revolution South
+[22:44:47][modifier.cpp:128]: StaticModifier #78 tag = SOV_soviet_chinese_relations name = Soviet-Chinese Relations
+[22:44:47][modifier.cpp:128]: StaticModifier #79 tag = SOV_face_western_fascism_static name = SOV_face_western_fascism_static
+[22:44:47][modifier.cpp:128]: StaticModifier #80 tag = SOV_for_the_common_good_relation name = For the Common Good
+[22:44:47][modifier.cpp:128]: StaticModifier #81 tag = ETH_league_of_nations_volunteer_resolution name = League of Nations International Brigades Resolution
+[22:44:47][modifier.cpp:128]: StaticModifier #82 tag = ETH_support_spain_static_modifier name = Support Spain
+[22:44:47][modifier.cpp:128]: StaticModifier #0 tag = _test_power_balance_mod name = _test_power_balance_mod
+[22:44:47][modifier.cpp:128]: StaticModifier #1 tag = weather_rain_light name = Rain
+[22:44:47][modifier.cpp:128]: StaticModifier #2 tag = weather_rain_heavy name = Storm
+[22:44:47][modifier.cpp:128]: StaticModifier #3 tag = weather_snow name = Snowing
+[22:44:47][modifier.cpp:128]: StaticModifier #4 tag = weather_blizzard name = Blizzard
+[22:44:47][modifier.cpp:128]: StaticModifier #5 tag = weather_sandstorm name = Sandstorm
+[22:44:47][modifier.cpp:128]: StaticModifier #6 tag = weather_arctic_water name = Arctic Water
+[22:44:47][modifier.cpp:128]: StaticModifier #7 tag = weather_mud name = Mud
+[22:44:47][modifier.cpp:128]: StaticModifier #8 tag = weather_extreme_cold name = Extremely cold
+[22:44:47][modifier.cpp:128]: StaticModifier #9 tag = weather_very_cold name = Very cold
+[22:44:47][modifier.cpp:128]: StaticModifier #10 tag = weather_very_hot name = Very hot
+[22:44:47][modifier.cpp:128]: StaticModifier #11 tag = weather_extreme_hot name = Extremely hot
+[22:44:47][modifier.cpp:128]: StaticModifier #12 tag = weather_ground_snow_medium name = Snow
+[22:44:47][modifier.cpp:128]: StaticModifier #13 tag = weather_ground_snow_high name = Deep snow
+[22:44:47][modifier.cpp:128]: StaticModifier #14 tag = flooded name = Flooded
+[22:44:47][modifier.cpp:128]: StaticModifier #15 tag = unplanned_offensive name = Unplanned Offensive
+[22:44:47][modifier.cpp:128]: StaticModifier #16 tag = night name = Night
+[22:44:47][modifier.cpp:128]: StaticModifier #17 tag = resistance_effect_base name = resistance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #18 tag = resistance_effect name = HLocal resistance!
+[22:44:47][modifier.cpp:128]: StaticModifier #19 tag = compliance_effect_base name = compliance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #20 tag = compliance_effect name = compliance_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #21 tag = non_core name = Non-Core
+[22:44:47][modifier.cpp:128]: StaticModifier #22 tag = non_core_controller name = Non-Core Controller
+[22:44:47][modifier.cpp:128]: StaticModifier #23 tag = lacking_consumer_goods name = lacking_consumer_goods
+[22:44:47][modifier.cpp:128]: StaticModifier #24 tag = gain_focus name = gain_focus
+[22:44:47][modifier.cpp:128]: StaticModifier #25 tag = ROM_license_german_equipment name = License German Equipment
+[22:44:47][modifier.cpp:128]: StaticModifier #26 tag = ROM_foreign_motor_company name = Automotive Industry Contacts
+[22:44:47][modifier.cpp:128]: StaticModifier #27 tag = HUN_dynastic_ties_license name = Royal Support
+[22:44:47][modifier.cpp:128]: StaticModifier #28 tag = YUG_western_license name = Yugoslavian Purchasing Commission
+[22:44:47][modifier.cpp:128]: StaticModifier #29 tag = FRA_coordinate_rearmament name = Coordinate Rearmament
+[22:44:47][modifier.cpp:128]: StaticModifier #30 tag = HUN_stubborn_fools name = Stubborn Fools
+[22:44:47][modifier.cpp:128]: StaticModifier #31 tag = ROM_military_modernization name = Military Modernization
+[22:44:47][modifier.cpp:128]: StaticModifier #32 tag = free_license name = Free License
+[22:44:47][modifier.cpp:128]: StaticModifier #33 tag = ITA_military_agreements name = Military Agreements
+[22:44:47][modifier.cpp:128]: StaticModifier #34 tag = stability_good_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #35 tag = stability_bad_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #36 tag = war_support_good_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #37 tag = war_support_bad_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #38 tag = war_support_during_war name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #39 tag = attache_sent name = Attaché sent
+[22:44:47][modifier.cpp:128]: StaticModifier #40 tag = diff_very_easy_player name = Civilian Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #41 tag = diff_easy_player name = Recruit Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #42 tag = diff_normal_player name = Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #43 tag = diff_hard_player name = Veteran Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #44 tag = diff_very_hard_player name = Elite Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #45 tag = diff_very_easy_ai name = diff_very_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #46 tag = diff_easy_ai name = diff_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #47 tag = diff_normal_ai name = diff_normal_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #48 tag = diff_hard_ai name = diff_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #49 tag = diff_very_hard_ai name = diff_very_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #50 tag = diff_strong_ai_generic name = Stronger AI
+[22:44:47][modifier.cpp:128]: StaticModifier #51 tag = naval_mines_effect name = naval_mines_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #52 tag = air_wing_experience_bonus_max name = air_wing_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #53 tag = air_wing_experience_malus_min name = air_wing_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #54 tag = ship_experience_bonus_max name = ship_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #55 tag = ship_experience_malus_min name = ship_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #56 tag = carrier_experience_bonus_max name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #57 tag = carrier_experience_malus_min name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #58 tag = pride_of_the_fleet name = Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #59 tag = pride_of_the_fleet_country name = Has Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #60 tag = pride_of_the_fleet_sunk_temporary name = Recently Lost Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #61 tag = water_modifier_shark_infested name = water_modifier_shark_infested
+[22:44:47][modifier.cpp:128]: StaticModifier #62 tag = screening_bonus name = screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #63 tag = capital_screening_bonus name = capital_screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #64 tag = country_is_at_peace name = Country is at peace
+[22:44:47][modifier.cpp:128]: StaticModifier #65 tag = country_is_at_war name = Country is at war
+[22:44:47][modifier.cpp:128]: StaticModifier #66 tag = passive_decryption_modifier name = Enemy cipher is decrypted
+[22:44:47][modifier.cpp:128]: StaticModifier #67 tag = active_decryption_modifier name = Using full intelligence gained from decrypted enemy cipher
+[22:44:47][modifier.cpp:128]: StaticModifier #68 tag = intel_network_state_level_bonus name = operative_mission_icons_small|1Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #69 tag = intel_network_state_level_penalty name = operative_mission_icons_small|1Enemy Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #70 tag = created_intelligence_agency name = Intelligence Agency
+[22:44:47][modifier.cpp:128]: StaticModifier #71 tag = root_out_resistance_mission_modifier name = Root Out Resistance Mission
+[22:44:47][modifier.cpp:128]: StaticModifier #72 tag = operative_nationality_mission name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #73 tag = operative_nationality_operation name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #74 tag = FRA_host_the_german_exiles name = Host the German Exiles
+[22:44:47][modifier.cpp:128]: StaticModifier #75 tag = FRA_reorganized_departments name = Reorganized Departments
+[22:44:47][modifier.cpp:128]: StaticModifier #76 tag = GER_rescued_mussolini name = Rescued Mussolini
+[22:44:47][modifier.cpp:128]: StaticModifier #77 tag = FRA_carry_the_revolution_south name = Carry the Revolution South
+[22:44:47][modifier.cpp:128]: StaticModifier #78 tag = SOV_soviet_chinese_relations name = Soviet-Chinese Relations
+[22:44:47][modifier.cpp:128]: StaticModifier #79 tag = SOV_face_western_fascism_static name = SOV_face_western_fascism_static
+[22:44:47][modifier.cpp:128]: StaticModifier #80 tag = SOV_for_the_common_good_relation name = For the Common Good
+[22:44:47][modifier.cpp:128]: StaticModifier #81 tag = ETH_league_of_nations_volunteer_resolution name = League of Nations International Brigades Resolution
+[22:44:47][modifier.cpp:128]: StaticModifier #82 tag = ETH_support_spain_static_modifier name = Support Spain
+[22:44:47][modifier.cpp:128]: StaticModifier #83 tag = SWI_guiding_principles_cantons name = Swiss Guiding Principles
+[22:44:47][modifier.cpp:128]: StaticModifier #84 tag = SWI_guiding_principles_council name = Swiss Guiding Principles
+[22:44:47][modifier.cpp:128]: StaticModifier #85 tag = SWI_guisan_power_balance name = Henri Guisan
+[22:44:47][modifier.cpp:128]: StaticModifier #86 tag = SWI_aktion_nationaler_widerstand_mod name = Aktion Nationaler Widerstand
+[22:44:47][modifier.cpp:128]: StaticModifier #87 tag = SWI_romansh name = Adopted the Rumantsch language
+[22:44:47][modifier.cpp:128]: StaticModifier #88 tag = SWI_DEBUG_all_cantons name = SWI_DEBUG_all_cantons
+[22:44:47][modifier.cpp:128]: StaticModifier #89 tag = SWI_DEBUG_all_council name = SWI_DEBUG_all_council
+[22:44:47][modifier.cpp:128]: StaticModifier #90 tag = ETH_withdraw_priviliges_power_balance name = Mesafint Privileges Reduced
+[22:44:47][modifier.cpp:128]: StaticModifier #91 tag = ETH_increase_priviliges_power_balance name = Mesafint Privileges Increased
+[22:44:47][modifier.cpp:128]: StaticModifier #92 tag = ETH_increase_communist_power_balance name = Increasing Communist Support
+[22:44:47][modifier.cpp:128]: StaticModifier #93 tag = ETH_increase_anarchist_power_balance name = Increasing Anarchist Support
+[22:44:47][modifier.cpp:128]: StaticModifier #94 tag = ETH_BoP_spanish_exiles_modifier name = Refuge for exiled Spanish anarchists
+[22:44:47][modifier.cpp:128]: StaticModifier #95 tag = ITA_power_balance_lost_core_1 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #96 tag = ITA_power_balance_lost_core_2 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #97 tag = ITA_power_balance_lost_core_3 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #98 tag = ITA_power_balance_lost_core_4 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #99 tag = ITA_power_balance_lost_core_5 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #0 tag = _test_power_balance_mod name = _test_power_balance_mod
+[22:44:47][modifier.cpp:128]: StaticModifier #1 tag = weather_rain_light name = Rain
+[22:44:47][modifier.cpp:128]: StaticModifier #2 tag = weather_rain_heavy name = Storm
+[22:44:47][modifier.cpp:128]: StaticModifier #3 tag = weather_snow name = Snowing
+[22:44:47][modifier.cpp:128]: StaticModifier #4 tag = weather_blizzard name = Blizzard
+[22:44:47][modifier.cpp:128]: StaticModifier #5 tag = weather_sandstorm name = Sandstorm
+[22:44:47][modifier.cpp:128]: StaticModifier #6 tag = weather_arctic_water name = Arctic Water
+[22:44:47][modifier.cpp:128]: StaticModifier #7 tag = weather_mud name = Mud
+[22:44:47][modifier.cpp:128]: StaticModifier #8 tag = weather_extreme_cold name = Extremely cold
+[22:44:47][modifier.cpp:128]: StaticModifier #9 tag = weather_very_cold name = Very cold
+[22:44:47][modifier.cpp:128]: StaticModifier #10 tag = weather_very_hot name = Very hot
+[22:44:47][modifier.cpp:128]: StaticModifier #11 tag = weather_extreme_hot name = Extremely hot
+[22:44:47][modifier.cpp:128]: StaticModifier #12 tag = weather_ground_snow_medium name = Snow
+[22:44:47][modifier.cpp:128]: StaticModifier #13 tag = weather_ground_snow_high name = Deep snow
+[22:44:47][modifier.cpp:128]: StaticModifier #14 tag = flooded name = Flooded
+[22:44:47][modifier.cpp:128]: StaticModifier #15 tag = unplanned_offensive name = Unplanned Offensive
+[22:44:47][modifier.cpp:128]: StaticModifier #16 tag = night name = Night
+[22:44:47][modifier.cpp:128]: StaticModifier #17 tag = resistance_effect_base name = resistance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #18 tag = resistance_effect name = HLocal resistance!
+[22:44:47][modifier.cpp:128]: StaticModifier #19 tag = compliance_effect_base name = compliance_effect_base
+[22:44:47][modifier.cpp:128]: StaticModifier #20 tag = compliance_effect name = compliance_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #21 tag = non_core name = Non-Core
+[22:44:47][modifier.cpp:128]: StaticModifier #22 tag = non_core_controller name = Non-Core Controller
+[22:44:47][modifier.cpp:128]: StaticModifier #23 tag = lacking_consumer_goods name = lacking_consumer_goods
+[22:44:47][modifier.cpp:128]: StaticModifier #24 tag = gain_focus name = gain_focus
+[22:44:47][modifier.cpp:128]: StaticModifier #25 tag = ROM_license_german_equipment name = License German Equipment
+[22:44:47][modifier.cpp:128]: StaticModifier #26 tag = ROM_foreign_motor_company name = Automotive Industry Contacts
+[22:44:47][modifier.cpp:128]: StaticModifier #27 tag = HUN_dynastic_ties_license name = Royal Support
+[22:44:47][modifier.cpp:128]: StaticModifier #28 tag = YUG_western_license name = Yugoslavian Purchasing Commission
+[22:44:47][modifier.cpp:128]: StaticModifier #29 tag = FRA_coordinate_rearmament name = Coordinate Rearmament
+[22:44:47][modifier.cpp:128]: StaticModifier #30 tag = HUN_stubborn_fools name = Stubborn Fools
+[22:44:47][modifier.cpp:128]: StaticModifier #31 tag = ROM_military_modernization name = Military Modernization
+[22:44:47][modifier.cpp:128]: StaticModifier #32 tag = free_license name = Free License
+[22:44:47][modifier.cpp:128]: StaticModifier #33 tag = ITA_military_agreements name = Military Agreements
+[22:44:47][modifier.cpp:128]: StaticModifier #34 tag = stability_good_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #35 tag = stability_bad_modifier name = Stability
+[22:44:47][modifier.cpp:128]: StaticModifier #36 tag = war_support_good_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #37 tag = war_support_bad_modifier name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #38 tag = war_support_during_war name = War Support
+[22:44:47][modifier.cpp:128]: StaticModifier #39 tag = attache_sent name = Attaché sent
+[22:44:47][modifier.cpp:128]: StaticModifier #40 tag = diff_very_easy_player name = Civilian Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #41 tag = diff_easy_player name = Recruit Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #42 tag = diff_normal_player name = Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #43 tag = diff_hard_player name = Veteran Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #44 tag = diff_very_hard_player name = Elite Difficulty
+[22:44:47][modifier.cpp:128]: StaticModifier #45 tag = diff_very_easy_ai name = diff_very_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #46 tag = diff_easy_ai name = diff_easy_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #47 tag = diff_normal_ai name = diff_normal_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #48 tag = diff_hard_ai name = diff_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #49 tag = diff_very_hard_ai name = diff_very_hard_ai
+[22:44:47][modifier.cpp:128]: StaticModifier #50 tag = diff_strong_ai_generic name = Stronger AI
+[22:44:47][modifier.cpp:128]: StaticModifier #51 tag = naval_mines_effect name = naval_mines_effect
+[22:44:47][modifier.cpp:128]: StaticModifier #52 tag = air_wing_experience_bonus_max name = air_wing_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #53 tag = air_wing_experience_malus_min name = air_wing_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #54 tag = ship_experience_bonus_max name = ship_experience_bonus_max
+[22:44:47][modifier.cpp:128]: StaticModifier #55 tag = ship_experience_malus_min name = ship_experience_malus_min
+[22:44:47][modifier.cpp:128]: StaticModifier #56 tag = carrier_experience_bonus_max name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #57 tag = carrier_experience_malus_min name = From Carrier Experience
+[22:44:47][modifier.cpp:128]: StaticModifier #58 tag = pride_of_the_fleet name = Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #59 tag = pride_of_the_fleet_country name = Has Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #60 tag = pride_of_the_fleet_sunk_temporary name = Recently Lost Pride of The Fleet
+[22:44:47][modifier.cpp:128]: StaticModifier #61 tag = water_modifier_shark_infested name = water_modifier_shark_infested
+[22:44:47][modifier.cpp:128]: StaticModifier #62 tag = screening_bonus name = screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #63 tag = capital_screening_bonus name = capital_screening_bonus
+[22:44:47][modifier.cpp:128]: StaticModifier #64 tag = country_is_at_peace name = Country is at peace
+[22:44:47][modifier.cpp:128]: StaticModifier #65 tag = country_is_at_war name = Country is at war
+[22:44:47][modifier.cpp:128]: StaticModifier #66 tag = passive_decryption_modifier name = Enemy cipher is decrypted
+[22:44:47][modifier.cpp:128]: StaticModifier #67 tag = active_decryption_modifier name = Using full intelligence gained from decrypted enemy cipher
+[22:44:47][modifier.cpp:128]: StaticModifier #68 tag = intel_network_state_level_bonus name = operative_mission_icons_small|1Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #69 tag = intel_network_state_level_penalty name = operative_mission_icons_small|1Enemy Intel Network
+[22:44:47][modifier.cpp:128]: StaticModifier #70 tag = created_intelligence_agency name = Intelligence Agency
+[22:44:47][modifier.cpp:128]: StaticModifier #71 tag = root_out_resistance_mission_modifier name = Root Out Resistance Mission
+[22:44:47][modifier.cpp:128]: StaticModifier #72 tag = operative_nationality_mission name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #73 tag = operative_nationality_operation name = From local nationality
+[22:44:47][modifier.cpp:128]: StaticModifier #74 tag = FRA_host_the_german_exiles name = Host the German Exiles
+[22:44:47][modifier.cpp:128]: StaticModifier #75 tag = FRA_reorganized_departments name = Reorganized Departments
+[22:44:47][modifier.cpp:128]: StaticModifier #76 tag = GER_rescued_mussolini name = Rescued Mussolini
+[22:44:47][modifier.cpp:128]: StaticModifier #77 tag = FRA_carry_the_revolution_south name = Carry the Revolution South
+[22:44:47][modifier.cpp:128]: StaticModifier #78 tag = SOV_soviet_chinese_relations name = Soviet-Chinese Relations
+[22:44:47][modifier.cpp:128]: StaticModifier #79 tag = SOV_face_western_fascism_static name = SOV_face_western_fascism_static
+[22:44:47][modifier.cpp:128]: StaticModifier #80 tag = SOV_for_the_common_good_relation name = For the Common Good
+[22:44:47][modifier.cpp:128]: StaticModifier #81 tag = ETH_league_of_nations_volunteer_resolution name = League of Nations International Brigades Resolution
+[22:44:47][modifier.cpp:128]: StaticModifier #82 tag = ETH_support_spain_static_modifier name = Support Spain
+[22:44:47][modifier.cpp:128]: StaticModifier #83 tag = SWI_guiding_principles_cantons name = Swiss Guiding Principles
+[22:44:47][modifier.cpp:128]: StaticModifier #84 tag = SWI_guiding_principles_council name = Swiss Guiding Principles
+[22:44:47][modifier.cpp:128]: StaticModifier #85 tag = SWI_guisan_power_balance name = Henri Guisan
+[22:44:47][modifier.cpp:128]: StaticModifier #86 tag = SWI_aktion_nationaler_widerstand_mod name = Aktion Nationaler Widerstand
+[22:44:47][modifier.cpp:128]: StaticModifier #87 tag = SWI_romansh name = Adopted the Rumantsch language
+[22:44:47][modifier.cpp:128]: StaticModifier #88 tag = SWI_DEBUG_all_cantons name = SWI_DEBUG_all_cantons
+[22:44:47][modifier.cpp:128]: StaticModifier #89 tag = SWI_DEBUG_all_council name = SWI_DEBUG_all_council
+[22:44:47][modifier.cpp:128]: StaticModifier #90 tag = ETH_withdraw_priviliges_power_balance name = Mesafint Privileges Reduced
+[22:44:47][modifier.cpp:128]: StaticModifier #91 tag = ETH_increase_priviliges_power_balance name = Mesafint Privileges Increased
+[22:44:47][modifier.cpp:128]: StaticModifier #92 tag = ETH_increase_communist_power_balance name = Increasing Communist Support
+[22:44:47][modifier.cpp:128]: StaticModifier #93 tag = ETH_increase_anarchist_power_balance name = Increasing Anarchist Support
+[22:44:47][modifier.cpp:128]: StaticModifier #94 tag = ETH_BoP_spanish_exiles_modifier name = Refuge for exiled Spanish anarchists
+[22:44:47][modifier.cpp:128]: StaticModifier #95 tag = ITA_power_balance_lost_core_1 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #96 tag = ITA_power_balance_lost_core_2 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #97 tag = ITA_power_balance_lost_core_3 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #98 tag = ITA_power_balance_lost_core_4 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #99 tag = ITA_power_balance_lost_core_5 name = Lost Cores
+[22:44:47][modifier.cpp:128]: StaticModifier #100 tag = nuked name = Recently Nuked
+[22:44:47][modifier.cpp:128]: StaticModifier #101 tag = darien_gap name = Darién Gap
+[22:44:47][modifier.cpp:128]: StaticModifier #102 tag = JAP_pro_mongol_propaganda name = Pro Mongol Propaganda
+[22:44:47][modifier.cpp:128]: StaticModifier #103 tag = JAP_proclaim_philippines_liberation name = Proclaim the Philippine Liberation
+[22:44:47][modifier.cpp:128]: StaticModifier #104 tag = JAP_proclaim_indonesian_liberation name = Proclaim Indonesian Liberation
+[22:44:47][modifier.cpp:128]: StaticModifier #105 tag = JAP_indian_independence_league name = Indian Independence League
+[22:44:47][modifier.cpp:128]: StaticModifier #106 tag = JAP_support_the_burmese_liberation_movement name = Support the Burmese Liberation Movement
+[22:44:47][modifier.cpp:128]: StaticModifier #107 tag = TUR_pan_turkism name = Pan-Turkism
+[22:44:47][modifier.cpp:128]: StaticModifier #108 tag = MON_central_asian_self_determination name = Central Asian Self-Determination
+[22:44:47][modifier.cpp:128]: StaticModifier #109 tag = ADU_lead_the_ummah name = Lead the Ummah
+[22:44:47][modifier.cpp:128]: StaticModifier #110 tag = PER_paniranism name = Paniranism
+[22:44:47][modifier.cpp:128]: StaticModifier #111 tag = AUS_austrian_german_leadership name = [AUS.GetAdjective]-[GER.GetAdjective] Leadership
+[22:44:47][modifier.cpp:128]: StaticModifier #112 tag = RAJ_Jinnahs_Kingdom_compliance name = Integrating our Muslim Comrades
+[22:44:47][modifier.cpp:128]: StaticModifier #113 tag = DEN_Pan_Scandinavianism name = Pan Scandinavianism
+[22:44:47][strategicresource.cpp:236]: Strategic resources loaded '00_resources.txt' #6
+[22:44:47][equipment.cpp:2351]: Upgrade(s) loaded 'common/units/equipment/upgrades/air_upgrades.txt' #12
+[22:44:47][equipment.cpp:2351]: Upgrade(s) loaded 'common/units/equipment/upgrades/land_upgrades.txt' #11
+[22:44:47][equipment.cpp:2351]: Upgrade(s) loaded 'common/units/equipment/upgrades/naval_upgrades.txt' #14
+[22:44:47][equipment.cpp:2351]: Upgrade(s) loaded 'common/units/equipment/upgrades/r56e_upgrades.txt' #38
+[22:44:47][equipment.cpp:2357]: Module(s) loaded 'common/units/equipment/modules/00_plane_modules.txt' #80
+[22:44:47][equipment.cpp:2357]: Module(s) loaded 'common/units/equipment/modules/00_r56_modules.txt' #2
+[22:44:47][equipment.cpp:2357]: Module(s) loaded 'common/units/equipment/modules/00_ship_modules.txt' #98
+[22:44:47][equipment.cpp:2357]: Module(s) loaded 'common/units/equipment/modules/00_tank_modules.txt' #69
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/amphibious_mechanized.txt' #3
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/anti_air.txt' #5
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/anti_tank.txt' #5
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/armored_car.txt' #6
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/artillery.txt' #9
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/convoys.txt' #2
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/floating_harbor.txt' #2
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/guided_missiles.txt' #7
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/infantry.txt' #9
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/mechanized.txt' #6
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/motorized.txt' #4
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/plane_airframes.txt' #24
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/quad_engine_airframe.txt' #3
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/r56e_fighter_bomber.txt' #3
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/r56e_heavy_maritime.txt' #4
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/r56e_hfighter_bomber.txt' #4
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/r56e_medium_maritime.txt' #4
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/railway_gun.txt' #4
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/ship_hull_carrier.txt' #12
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/ship_hull_cruiser.txt' #20
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/ship_hull_heavy.txt' #17
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/ship_hull_light.txt' #11
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/ship_hull_submarine.txt' #13
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/single_engine_airframe.txt' #6
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/support.txt' #2
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/tank_chassis.txt' #23
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/trains.txt' #7
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/twin_engine_airframe.txt' #1
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/x_plane_airframes.txt' #110
+[22:44:47][equipment.cpp:2345]: Equipment(s) loaded 'common/units/equipment/x_tank_chassis.txt' #140
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/unit_tags/00_categories.txt' #0
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/unit_tags/r56_categories.txt' #0
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/critical_parts/00_critical_parts.txt' #0
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/air.txt' #25
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/amphibious_armor.txt' #4
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/amphibious_mech.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/anti-air.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/anti-air_brigade.txt' #2
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/anti_tank.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/anti_tank_brigade.txt' #2
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/armored_car_battalion.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/artillery.txt' #2
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/artillery_brigade.txt' #5
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/battlecruiser.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/battleship.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/blackshirt_assault_battalion.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/carrier.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/cavalry.txt' #2
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/destroyer.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/engineer.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/field_hospital.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/flame_tank.txt' #3
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/heavy_armor.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/heavy_cruiser.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/infantry.txt' #17
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/light_armor.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/light_cruiser.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/logistics.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/maintenance.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/medium_armor.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/military_police.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/modern_armor.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/r56_units.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/r56e_armored_car.txt' #0
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/railway_gun.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/recon.txt' #4
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/signal.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/sp_anti-air_brigade.txt' #5
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/sp_artillery_brigade.txt' #5
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/submarine.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/super_heavy_armor.txt' #1
+[22:44:47][subunitdefinition.cpp:2101]: SubUnit loaded 'common/units/tank_destroyer_brigade.txt' #5
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded '00_diplomatic.txt' #3
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded '00_opinion_modifiers.txt' #315
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'DEN_opinion_modifiers.txt' #6
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'RAJ_opinion_modifiers.txt' #13
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'bba_opinion_modifiers.txt' #84
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'bftb_opinion_modifiers.txt' #81
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'mtg_opinion_modifiers.txt' #16
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'nsb_opinion_modifiers.txt' #48
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'poland_opinion_modifiers.txt' #13
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'r56_opinion_modifiers.txt' #361
+[22:44:47][opinion_modifier.cpp:414]: Opinion modifiers loaded 'r56w_opinion_modifiers.txt' #5
+[22:44:47][career_profile_medal.cpp:219]: Career profile medals loaded '00_medals.txt' #14
+[22:44:47][career_profile_ribbon.cpp:136]: Career profile ribbons loaded '00_ribbons.txt' #13
+[22:44:47][career_profile_profile_picture.cpp:207]: Career profile profile pictures meta loaded '00_profile_picture.txt' #59
+[22:44:47][statetemplate.cpp:497]: Continent #1 name = europe
+[22:44:47][statetemplate.cpp:497]: Continent #2 name = north_america
+[22:44:47][statetemplate.cpp:497]: Continent #3 name = south_america
+[22:44:47][statetemplate.cpp:497]: Continent #4 name = australia
+[22:44:47][statetemplate.cpp:497]: Continent #5 name = africa
+[22:44:47][statetemplate.cpp:497]: Continent #6 name = asia
+[22:44:47][statetemplate.cpp:497]: Continent #7 name = middle_east
+[22:44:47][state_categories.cpp:137]: State categories loaded city.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded developed_rural.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded enclave.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded large_city.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded large_town.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded megalopolis.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded metropolis.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded pastoral.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded rural.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded small_island.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded tiny_island.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded town.txt' #1
+[22:44:47][state_categories.cpp:137]: State categories loaded wasteland.txt' #1
+[22:44:47][idea.cpp:1542]: Ideas loaded '00_idea.txt' ideas #0, categories #15
+[22:44:47][idea.cpp:1542]: Ideas loaded 'CSA.txt' ideas #10, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'GER.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'SOV.txt' ideas #335, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'USB.txt' ideas #2, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded '_debug_spirits.txt' ideas #2, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded '_economic.txt' ideas #14, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded '_event.txt' ideas #14, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded '_manpower.txt' ideas #11, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'abc_generic.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'afghanistan.txt' ideas #10, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'air_spirits.txt' ideas #20, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'albania.txt' ideas #34, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'algeria.txt' ideas #24, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'andalusia.txt' ideas #8, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'andorra.txt' ideas #3, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'angola.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'arctic_generic.txt' ideas #2, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'argentina.txt' ideas #47, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'armenia.txt' ideas #22, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'army_spirits.txt' ideas #34, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'aussa.txt' ideas #14, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'australia.txt' ideas #32, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'austria.txt' ideas #59, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'azerbaijan.txt' ideas #4, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'baden.txt' ideas #7, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bahamas.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'baltic_shared.txt' ideas #40, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bangladesh.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bavaria.txt' ideas #9, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'belarus.txt' ideas #5, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'belgium.txt' ideas #77, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'belize.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'benelux.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bhutan.txt' ideas #15, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bolivia.txt' ideas #1, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bosnia.txt' ideas #1, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'botswana.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'brazil.txt' ideas #75, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'britain.txt' ideas #152, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'british_antilles.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'british_raj.txt' ideas #112, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'brittany.txt' ideas #1, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'bulgaria.txt' ideas #201, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'burma.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'burundi.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'cameroon.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'canada.txt' ideas #58, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'catalonia.txt' ideas #13, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'catism.txt' ideas #15, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'cayenne.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'central african republic.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'chad.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'chile.txt' ideas #42, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'china.txt' ideas #45, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'china_shared.txt' ideas #28, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'china_warlord.txt' ideas #17, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'colombia.txt' ideas #18, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'comchina.txt' ideas #18, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'congo.txt' ideas #15, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'corsica.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'costa_rica.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'crimea.txt' ideas #10, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'croatia.txt' ideas #26, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'cuba.txt' ideas #9, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'curacao.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'cyprus.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'czechoslovakia.txt' ideas #87, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'dahomey.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'danzig.txt' ideas #7, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'denmark.txt' ideas #89, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'djibouti.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'dominican_republic.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'ecuador.txt' ideas #1, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'egypt.txt' ideas #52, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'el_salvador.txt' ideas #1, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'equatorial guinea.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'eritrea.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'estonia.txt' ideas #41, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'etat_francais.txt' ideas #18, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'ethiopia.txt' ideas #94, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'ethiopia_r56.txt' ideas #14, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'euskadi.txt' ideas #5, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'fiji.txt' ideas #6, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'finland.txt' ideas #41, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'flanders.txt' ideas #13, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'france.txt' ideas #258, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'free_france.txt' ideas #2, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'french_indochina.txt' ideas #30, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'gabon.txt' ideas #0, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'galicia.txt' ideas #12, categories #0
+[22:44:47][idea.cpp:1542]: Ideas loaded 'gambia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'germany.txt' ideas #138, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'germany_vanilla.txt' ideas #29, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'ghana.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'greece.txt' ideas #208, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guadeloupe.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guam.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guangxi_clique.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guatemala.txt' ideas #8, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guinea-bissau.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guinea.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'guyana.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'haiti.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'hanover.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'hawaii.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'herzegovina.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'honduras.txt' ideas #33, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'hungary.txt' ideas #33, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'iceland.txt' ideas #47, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'indonesia.txt' ideas #48, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'iraq.txt' ideas #19, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'ireland.txt' ideas #30, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'italy.txt' ideas #187, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'italy_old.txt' ideas #62, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'ivory coast.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'jamaica.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'japan.txt' ideas #101, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kazakhstan.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kenya.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'korea.txt' ideas #24, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kosovo.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kuomintang.txt' ideas #123, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kurdistan.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kuwait.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'kyrgyzstan.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'latvia.txt' ideas #75, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'liberia.txt' ideas #2, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'libya.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'liechtenstein.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'lithuania.txt' ideas #150, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'lootbox.txt' ideas #4, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'luxembourg.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'luxemburg.txt' ideas #31, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'macedonia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'madagascar.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'malawi.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'malaysia.txt' ideas #68, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'maldives.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mali.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'malta.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'manchukou.txt' ideas #66, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mauritania.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mecklenburg.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mengkukuo.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mexico.txt' ideas #58, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mexico_mtg_placeholder.txt' ideas #53, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'micronesia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'moldova.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mongolia.txt' ideas #180, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'montenegro.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'morocco.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'mozambique.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'namibia.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'navarra.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'navy_spirits.txt' ideas #25, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'nepal.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'netherlands.txt' ideas #115, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'new_zealand.txt' ideas #75, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'newfoundland.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'nicaragua.txt' ideas #17, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'niger.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'nigeria.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'northern_ireland.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'norway.txt' ideas #66, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'occitania.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'oman.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'pakistan.txt' ideas #10, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'palestine.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'panama.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'papua_new_guinea.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'paraguay.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'persia.txt' ideas #33, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'peru.txt' ideas #8, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'philipines.txt' ideas #13, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'philippines.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'poland.txt' ideas #100, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'portugal.txt' ideas #64, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'prc.txt' ideas #107, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'prussia.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'puerto_rico.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'qatar.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'quebec.txt' ideas #2, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_australia.txt' ideas #64, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_canada.txt' ideas #89, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_generic.txt' ideas #38, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_generic_tree.txt' ideas #24, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_hungary.txt' ideas #11, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_ideas_political.txt' ideas #4, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_poland.txt' ideas #105, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_soviet.txt' ideas #109, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_spain_nationalist.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56_spain_republic.txt' ideas #56, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_ideas_decisions.txt' ideas #5, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_laws_gender.txt' ideas #4, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_laws_leadership.txt' ideas #5, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_laws_security.txt' ideas #3, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_laws_social.txt' ideas #5, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56i_laws_war.txt' ideas #4, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'r56w_empire.txt' ideas #14, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'republic of congo.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'romania.txt' ideas #62, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'ruthenia.txt' ideas #8, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'rwanda.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'samoa.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'saudi_arabia.txt' ideas #24, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'saxony.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'schleswig-holstein.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'scotland.txt' ideas #9, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'senegal.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'serbia.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'shanxi.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'siam.txt' ideas #45, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'sierra leone.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'sinkiang.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'slovakia.txt' ideas #17, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'slovenia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'solomon islands.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'somalia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'south_africa.txt' ideas #61, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'spain_nationalist.txt' ideas #60, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'spain_republic.txt' ideas #109, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'sri_lanka.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'sudan.txt' ideas #5, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'suriname.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'sweden.txt' ideas #99, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'switzerland.txt' ideas #68, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'switzerland_r56.txt' ideas #64, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tahiti.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tajikistan.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tannu_tuva.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tanzania.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tibet.txt' ideas #28, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'togo.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'transylvania.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'trinidad_and_tobago.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'tunisia.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'turkey.txt' ideas #162, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'turkmenistan.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'uganda.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'ukraine.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'united_arab_emirates.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'upper volta.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'uruguay.txt' ideas #12, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'usa.txt' ideas #125, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'uzbekistan.txt' ideas #4, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'venezuela.txt' ideas #64, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'venice.txt' ideas #3, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'vichy_france.txt' ideas #3, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'vietnam_ideas.txt' ideas #52, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'wales.txt' ideas #1, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'wallonia.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'western_sahara.txt' ideas #6, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'wurtemberg.txt' ideas #7, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'xibei_san_ma.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'yemen.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'yugoslavia.txt' ideas #69, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'yunnan.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'zambia.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'zimbabwe.txt' ideas #0, categories #0
+[22:44:48][idea.cpp:1542]: Ideas loaded 'zzz_generic.txt' ideas #114, categories #0
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded '00_traits.txt' #773
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded '77_traits.txt' #98
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'CHI_traits.txt' #3
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'FRA_traits.txt' #21
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'GER_traits.txt' #3
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'Indochina_traits.txt' #3
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'Italy_traits.txt' #1
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'NaW_unique_traits.txt' #12
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'SOV_traits.txt' #2
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'SPR_traits.txt' #1
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'SiamCustomTraits.txt' #3
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'Vietnam_traits.txt' #1
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'mal_traits.txt' #9
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56_AST_traits.txt' #4
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56_CAN_traits.txt' #4
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56_companies_traits.txt' #124
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56_raj_den_traits.txt' #20
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56_traits.txt' #304
+[22:44:49][countryleadertraits.cpp:304]: Leader traits loaded 'r56w_leader_traits.txt' #44
+[22:44:49][unit_medals.cpp:201]: Unit Medals Loaded '00_default.txt' #84
+[22:44:49][decision.cpp:4325]: Decision categories loaded '00_decision_categories.txt' decision categories #25
+[22:44:49][decision.cpp:4325]: Decision categories loaded '00_formable_categories.txt' decision categories #32
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'ARM_decision_categories.txt' decision categories #4
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'AZR_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'African_Union_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'BALTIC_decision_categories.txt' decision categories #14
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'BEL_HOL_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'BHU_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'BRA_decision_categories.txt' decision categories #5
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'BUL_decision_categories.txt' decision categories #19
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'CAU_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'CHI_decision_categories.txt' decision categories #19
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'CZE_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'DEN_decision_categories.txt' decision categories #5
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'EGY_decision_categories.txt' decision categories #6
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'ENG_decision_categories.txt' decision categories #7
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'ETH_decision_categories.txt' decision categories #13
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'FIN_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'FRA_decision_categories.txt' decision categories #9
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'GEO_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'GER_decision_categories.txt' decision categories #7
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'GRE_decision_categories.txt' decision categories #8
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'HOL_decision_categories.txt' decision categories #9
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'HON_decision_categories.txt' decision categories #8
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'HUN_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'ITA_decision_categories.txt' decision categories #8
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'JAP_decision_categories.txt' decision categories #7
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'LAT_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'LIT_decision_categories.txt' decision categories #8
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'MAN_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'MEX_Categories.txt' decision categories #4
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'MEX_decision_categories.txt' decision categories #4
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'MON_decision_categories.txt' decision categories #13
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'NaW_NOR_decision_categories.txt' decision categories #10
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'PAK_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'POL_decision_categories.txt' decision categories #14
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'POL_mod_decision_categories.txt' decision categories #15
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'POR_decision_categories.txt' decision categories #7
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'PRC_decision_categories.txt' decision categories #5
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'PRU_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'RAJ_decision_categories.txt' decision categories #10
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'ROM_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'RUT_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SAF_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SAU_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SIA_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SOV_decision_categories.txt' decision categories #20
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SPR_decision_categories.txt' decision categories #10
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SS_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SWE_decision_categories.txt' decision categories #11
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'SWI_decision_categories.txt' decision categories #5
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'TIB_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'TUR_decision_categories.txt' decision categories #9
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'UKR_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'UMC_GEN_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'USA_decision_categories.txt' decision categories #11
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'VEN_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'VIN_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'YUG_decision_categories.txt' decision categories #4
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'infiltration_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'mal_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_ABC_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_CHL_nationalist_uprising.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_ETH_decision_categories.txt' decision categories #2
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_PAR_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_ROM_decision_categories.txt' decision categories #0
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_SOV_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_SWI_decision_categories.txt' decision categories #3
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_TUR_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_YUG_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_decision_categories.txt' decision categories #14
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_extras_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56_formable_categories.txt' decision categories #9
+[22:44:49][decision.cpp:4325]: Decision categories loaded 'r56i_decision_categories.txt' decision categories #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ADU.txt' decisions #5
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ALB.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ARG.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'AST.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'African_Union_decisions.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Armenian_decisions.txt' decisions #17
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Azerbaijan_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'BALTIC.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'BEL_HOL_decisions.txt' decisions #9
+[22:44:49][decision.cpp:4371]: Decisions loaded 'BRA_decisions.txt' decisions #30
+[22:44:49][decision.cpp:4371]: Decisions loaded 'BUL.txt' decisions #121
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Bhutan_decisions.txt' decisions #6
+[22:44:49][decision.cpp:4371]: Decisions loaded 'CAT.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'CHI_decisions.txt' decisions #44
+[22:44:49][decision.cpp:4371]: Decisions loaded 'CHI_warlord_decisions.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'COG.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'CRO.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'CZE.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'DEN.txt' decisions #54
+[22:44:49][decision.cpp:4371]: Decisions loaded 'DOD_hungary.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'EGY.txt' decisions #71
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ENG.txt' decisions #131
+[22:44:49][decision.cpp:4371]: Decisions loaded 'EST.txt' decisions #13
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ETH.txt' decisions #88
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ETH_r56.txt' decisions #15
+[22:44:49][decision.cpp:4371]: Decisions loaded 'FIN.txt' decisions #4
+[22:44:49][decision.cpp:4371]: Decisions loaded 'FRA.txt' decisions #73
+[22:44:49][decision.cpp:4371]: Decisions loaded 'GER.txt' decisions #28
+[22:44:49][decision.cpp:4371]: Decisions loaded 'GRE.txt' decisions #67
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Georgian_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'HOL.txt' decisions #29
+[22:44:49][decision.cpp:4371]: Decisions loaded 'HON.txt' decisions #43
+[22:44:49][decision.cpp:4371]: Decisions loaded 'HUN.txt' decisions #12
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Historical_Poland_Mod.txt' decisions #68
+[22:44:49][decision.cpp:4371]: Decisions loaded 'IRQ.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ITA.txt' decisions #126
+[22:44:49][decision.cpp:4371]: Decisions loaded 'JAP.txt' decisions #60
+[22:44:49][decision.cpp:4371]: Decisions loaded 'LAT.txt' decisions #22
+[22:44:49][decision.cpp:4371]: Decisions loaded 'LIB.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'LIT.txt' decisions #55
+[22:44:49][decision.cpp:4371]: Decisions loaded 'MAN_decisions.txt' decisions #25
+[22:44:49][decision.cpp:4371]: Decisions loaded 'MEX.txt' decisions #31
+[22:44:49][decision.cpp:4371]: Decisions loaded 'MON.txt' decisions #156
+[22:44:49][decision.cpp:4371]: Decisions loaded 'MTG_congress.txt' decisions #23
+[22:44:49][decision.cpp:4371]: Decisions loaded 'MTG_naval_treaty.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'NATO.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'NIC.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'NaW_NOR_decisions.txt' decisions #78
+[22:44:49][decision.cpp:4371]: Decisions loaded 'PAK_decisions.txt' decisions #14
+[22:44:49][decision.cpp:4371]: Decisions loaded 'PAL.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POL.txt' decisions #56
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POL_Border_Conflicts.txt' decisions #24
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POL_falangism_political_decisions.txt' decisions #12
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POL_other_ideologies_political_decisions.txt' decisions #34
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POL_socialism_political_decisions.txt' decisions #11
+[22:44:49][decision.cpp:4371]: Decisions loaded 'POR.txt' decisions #28
+[22:44:49][decision.cpp:4371]: Decisions loaded 'PRC.txt' decisions #14
+[22:44:49][decision.cpp:4371]: Decisions loaded 'QBC.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'RAJ.txt' decisions #80
+[22:44:49][decision.cpp:4371]: Decisions loaded 'ROM.txt' decisions #9
+[22:44:49][decision.cpp:4371]: Decisions loaded 'RUT.txt' decisions #8
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SAF.txt' decisions #8
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SAU.txt' decisions #14
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SER.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SIA.txt' decisions #14
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SLO_decisions.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SOV.txt' decisions #257
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SPR.txt' decisions #178
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SS.txt' decisions #12
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SWE.txt' decisions #40
+[22:44:49][decision.cpp:4371]: Decisions loaded 'SWI.txt' decisions #93
+[22:44:49][decision.cpp:4371]: Decisions loaded 'TAN.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'TUR.txt' decisions #81
+[22:44:49][decision.cpp:4371]: Decisions loaded 'Tibet_decisions.txt' decisions #8
+[22:44:49][decision.cpp:4371]: Decisions loaded 'UKR.txt' decisions #9
+[22:44:49][decision.cpp:4371]: Decisions loaded 'UMC_GEN_decisions.txt' decisions #12
+[22:44:49][decision.cpp:4371]: Decisions loaded 'USA.txt' decisions #67
+[22:44:49][decision.cpp:4371]: Decisions loaded 'VEN.txt' decisions #5
+[22:44:49][decision.cpp:4371]: Decisions loaded 'VNZ.txt' decisions #4
+[22:44:49][decision.cpp:4371]: Decisions loaded 'WTT_border_conflicts.txt' decisions #8
+[22:44:49][decision.cpp:4371]: Decisions loaded 'WTT_politcal_power_struggle_decisions.txt' decisions #67
+[22:44:49][decision.cpp:4371]: Decisions loaded 'YUG.txt' decisions #27
+[22:44:49][decision.cpp:4371]: Decisions loaded '_debug_decisions.txt' decisions #0
+[22:44:49][decision.cpp:4371]: Decisions loaded '_exiled_governments_decisions.txt' decisions #12
+[22:44:49][decision.cpp:4371]: Decisions loaded '_generic_decisions.txt' decisions #28
+[22:44:49][decision.cpp:4371]: Decisions loaded 'anti_japan_infiltration.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'foreign_influence.txt' decisions #9
+[22:44:49][decision.cpp:4371]: Decisions loaded 'formable_nation_decisions.txt' decisions #95
+[22:44:49][decision.cpp:4371]: Decisions loaded 'lar_agent_recruitment_decisions.txt' decisions #16
+[22:44:49][decision.cpp:4371]: Decisions loaded 'mal_independence_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'mal_trade_decisions.txt' decisions #20
+[22:44:49][decision.cpp:4371]: Decisions loaded 'political_decisions.txt' decisions #54
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_ABC_generic_decisions.txt' decisions #6
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_AST.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_BUL_decisions.txt' decisions #15
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_CAN.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_CHI_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_CHL_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_DNZ_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_ENG_decisions.txt' decisions #4
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_GER_decisions.txt' decisions #6
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_HUN_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_ITA_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_KOR_decisions.txt' decisions #0
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_MEX_decisions.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_MOL_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_PAR_decisions.txt' decisions #4
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_POR_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_PRU_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_SIK_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_SOV_decisions.txt' decisions #19
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_SPR_decisions.txt' decisions #5
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_SWI_decisions.txt' decisions #11
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_SZK_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_TUR_decisions.txt' decisions #8
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_USA_decisions.txt' decisions #7
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_YUG_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_control_ai_allies_decisions.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_estonia.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_extras_decisions.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_formable_nations_decisions.txt' decisions #31
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_generic_decisions.txt' decisions #27
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_military_rewards.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_prospecting.txt' decisions #326
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_recruit_generals_decisions.txt' decisions #20
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_renaming_decisions.txt' decisions #15
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_spanish_emigres.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56_turkestan_decisions.txt' decisions #1
+[22:44:49][decision.cpp:4371]: Decisions loaded 'r56i_decisions.txt' decisions #3
+[22:44:49][decision.cpp:4371]: Decisions loaded 'resource_prospecting.txt' decisions #73
+[22:44:49][decision.cpp:4371]: Decisions loaded 'stability_war_support.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'transcaucasia_decisions.txt' decisions #2
+[22:44:49][decision.cpp:4371]: Decisions loaded 'vietnam_decisions.txt' decisions #10
+[22:44:49][decision.cpp:4371]: Decisions loaded 'xp_conversions_decisions.txt' decisions #12
+[22:44:50][bookmarks.cpp:287]: Bookmarks loaded 'blitzkrieg.txt' Bookmarks #1
+[22:44:50][bookmarks.cpp:287]: Bookmarks loaded 'the_gathering_storm.txt' Bookmarks #1
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'BUL.txt' #12
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'CHI.txt' #22
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'CZE.txt' #33
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'EGY.txt' #35
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ENG.txt' #78
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ENG_operation_strats.txt' #81
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ETH.txt' #97
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'FIN.txt' #103
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'FRA.txt' #112
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'GER.txt' #186
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'GER_operation_strats.txt' #187
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'GRE.txt' #196
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'HUN.txt' #203
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ICE.txt' #205
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ITA.txt' #226
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'JAP.txt' #260
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'LIT.txt' #261
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'MAN_ai_strategies.txt' #262
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'MEX.txt' #267
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'PER.txt' #269
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'POL.txt' #273
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'POR.txt' #276
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'ROM.txt' #281
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'SOV.txt' #333
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'SPR.txt' #345
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'SWE.txt' #349
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'SWI.txt' #360
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'TUR.txt' #361
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'USA.txt' #384
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'WTT_china_ai_strategies.txt' #390
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'WVPM_naval_default.txt' #398
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'default.txt' #438
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'doctrines.txt' #453
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'generic_operation_strats.txt' #456
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'operatives_default.txt' #457
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ADR.txt' #459
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ARG.txt' #464
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_AUS.txt' #465
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_BHU.txt' #471
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_BOL.txt' #473
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_BRA.txt' #475
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_CHI.txt' #500
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_CHL.txt' #508
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_COG.txt' #509
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_COL.txt' #513
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_COS.txt' #514
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_DOM.txt' #515
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ECU.txt' #516
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ELS.txt' #517
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ENG.txt' #540
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ETH.txt' #541
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_FIN.txt' #543
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_FRA.txt' #559
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_GER.txt' #592
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_GRE.txt' #593
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_HAI.txt' #594
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_HON.txt' #595
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ITA.txt' #607
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_JAP.txt' #637
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_KOR.txt' #638
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_LUX.txt' #639
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_PAN.txt' #640
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_PAR.txt' #644
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_PRU.txt' #645
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_ROM.txt' #649
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_SAU.txt' #650
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_SIA.txt' #656
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_SIK.txt' #664
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_SOV.txt' #693
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_SPR.txt' #695
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_URG.txt' #698
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_USA.txt' #715
+[22:44:51][ai_strategy.cpp:6904]: AI strategies loaded 'r56_default_z.txt' #841
+[22:44:51][musicmanager.cpp:171]: Loaded 23 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 26 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 29 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 32 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 36 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 40 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 43 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 59 songs.
+[22:44:51][musicmanager.cpp:171]: Loaded 78 songs.
+[22:44:51][musicplayer.cpp:367]: MusicPlayerSettings Loaded with 78 available track and 1 selected stations.
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'AUS.txt' #10
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'BEL.txt' #20
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'BHU.txt' #21
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'BRA.txt' #22
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'BUL.txt' #23
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'CHI.txt' #33
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'CHL.txt' #34
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'COG.txt' #44
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'CRO.txt' #45
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'CZE.txt' #46
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'EFR.txt' #47
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'ENG.txt' #57
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'EST.txt' #67
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'ETH.txt' #77
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'FIN.txt' #87
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'FRA.txt' #96
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'GER.txt' #105
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'GRE.txt' #106
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'HOL.txt' #116
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'HON.txt' #126
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'HUN.txt' #135
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'ICE.txt' #136
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'INS.txt' #146
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'ITA.txt' #155
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'JAP.txt' #164
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'MAN.txt' #174
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'MEX.txt' #184
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'NOR.txt' #185
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'POR.txt' #195
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'PRC.txt' #205
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'ROM.txt' #206
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'RUT.txt' #216
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'SAF.txt' #217
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'SLO.txt' #227
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'SOV.txt' #236
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'SWE.txt' #237
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'SWI.txt' #238
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'TIB.txt' #239
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'USA.txt' #248
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'YUG.txt' #248
+[22:44:51][ai_strategy.cpp:7149]: AI focuses loaded 'generic.txt' #257
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'armor_role.txt' #3
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'bicycle_role.txt' #4
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'cavalry_role.txt' #6
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'generic.txt' #6
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'infantry_role.txt' #7
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'jaegers_template_experimental.txt' #8
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'marine_role.txt' #9
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'mobile_role.txt' #10
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'mountaineer_role.txt' #11
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'suppression_role.txt' #13
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_BEL.txt' #14
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_CHI.txt' #16
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_ENG.txt' #22
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_ETH.txt' #23
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_GER.txt' #31
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_HUN.txt' #39
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_ITA.txt' #46
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_JAP.txt' #52
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_SOV.txt' #60
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_SWI.txt' #61
+[22:44:51][ai_strategy.cpp:7375]: AI Roles loaded 'templates_USA.txt' #67
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'ENG_naval.txt' #13
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'ENG_planes.txt' #23
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'ENG_tank.txt' #39
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'FRA_naval.txt' #50
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'FRA_tank.txt' #66
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'GER_naval.txt' #77
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'GER_planes.txt' #84
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'GER_tank.txt' #100
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'ITA_naval.txt' #109
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'ITA_tank.txt' #125
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'JAP_naval.txt' #138
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'JAP_tank.txt' #154
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'SOV_tank.txt' #170
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'USA_naval.txt' #181
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'USA_planes.txt' #191
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'USA_tank.txt' #207
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'generic_naval.txt' #220
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'generic_planes.txt' #231
+[22:44:51][ai_equipment_strategy.cpp:1665]: AI Equipment Roles loaded 'generic_tank.txt' #247
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ADR_alternate_strategy_plan.txt' #4
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ADR_historical_strategy_plan.txt' #5
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ALB_alternate_strategy_plan.txt' #8
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ALB_historical_strategy_plan.txt' #9
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ARG_R56_alternate_strategy_plan.txt' #12
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ARG_historical_strategy_plan.txt' #13
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AST_R56_alternate_strategy_plan.txt' #17
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AST_R56_historical_strategy_plan.txt' #18
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AST_alternate_strategy_plan.txt' #21
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AST_historical_strategy_plan.txt' #22
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AUS_R56_alternate_strategy_plan.txt' #26
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'AUS_historical_strategy_plan.txt' #27
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BEL_alternate_strategy_plan.txt' #33
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BEL_historical_strategy_plan.txt' #34
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BHU_alternate_strategy_plan.txt' #36
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BLT_alternate_strategy_plan.txt' #37
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BRA_R56_alternate_strategy_plan.txt' #41
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BRA_historical_strategy_plan.txt' #42
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BUL_alternate_strategy_plan.txt' #48
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BUL_historical_strategy_plan.txt' #49
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'BUL_r56_historical_strategy_plan.txt' #50
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CAN_alternate_strategy_plan.txt' #53
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CAN_historical_strategy_plan.txt' #54
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHI_alternate_strategy_plan.txt' #58
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHI_default_strategy_plan.txt' #58
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHI_historical_strategy_plan.txt' #59
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHI_warlord_alternate_strategy_plan.txt' #59
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHI_warlord_historical_strategy_plan.txt' #59
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHL_alternate_strategy_plan.txt' #62
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CHL_historical_strategy_plan.txt' #63
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CZE_alternate_strategy_plan.txt' #67
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'CZE_historical_strategy_plan.txt' #68
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'DEN_alternate_strategy_plan.txt' #72
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'DEN_historical_strategy_plan.txt' #73
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'EGY_historical_strategy_plan.txt' #74
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ENG_alternate_strategy_plan.txt' #79
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ENG_historical_strategy_plan.txt' #80
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'EST_alternate_strategy_plan.txt' #81
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'EST_historical_strategy_plan.txt' #83
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ETH_alternate_strategy_plan.txt' #88
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ETH_historical_strategy_plan.txt' #89
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'FIN_R56_alternate_strategy_plan.txt' #92
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'FIN_historical_strategy_plan.txt' #93
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'FRA_alternate_strategy_plan.txt' #101
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'FRA_historical_strategy_plan.txt' #102
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GER.txt' #104
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GER_alternate.txt' #110
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GER_r56.txt' #112
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GER_r56_alternate.txt' #118
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GRE_alternate_strategy_plan.txt' #125
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GRE_historical_strategy_plan.txt' #126
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'GRE_r56_historical_strategy_plan.txt' #127
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HOL_alternate_strategy_plan.txt' #133
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HOL_historical_strategy_plan.txt' #134
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HON_alternate_strategy_plan.txt' #138
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HON_historical_strategy_plan.txt' #139
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HUN_alternate.txt' #143
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'HUN_historical_strategy_plan.txt' #144
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'IRE_historical_strategy_plan.txt' #145
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ITA_alternate_strategy_plan.txt' #151
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ITA_historical_strategy_plan.txt' #152
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'JAP_alternate_strategy_plan.txt' #157
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'JAP_historical_strategy_plan.txt' #158
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'LAT_alternate_strategy_plan.txt' #159
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'LAT_historical_strategy_plan.txt' #161
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'LIT_alternate_strategy_plan.txt' #163
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'LIT_historical_strategy_plan.txt' #166
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'LUX_historical_strategy_plan.txt' #167
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MAL.txt' #168
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MAN_alternate_strategy_plan.txt' #171
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MAN_historical_strategy_plan.txt' #172
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MEX.txt' #178
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MON_alternate_strategy_plan.txt' #183
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'MON_historical_strategy_plan.txt' #184
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'NOR_alternate_strategy_plan.txt' #187
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'NOR_historical_strategy_plan.txt' #188
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'NZL_alternate_strategy_plan.txt' #191
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'NZL_historical_strategy_plan.txt' #192
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'PER_R56_alternate_strategy_plan.txt' #195
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'PER_R56_historical_strategy_plan.txt' #196
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'POL_alternate_strategy_plan.txt' #204
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'POL_historical_strategy_plan.txt' #205
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'POR_alternate_strategy_plan.txt' #211
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'POR_historical_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'PRC_alternate_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'PRC_default_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'PRC_historical_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'RAJ_alternate_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'RAJ_historical_strategy_plan.txt' #212
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ROM_alternate_strategy_plans.txt' #216
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'ROM_historical_strategy_plan.txt' #217
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SAF_alternate_strategy_plan.txt' #221
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SAF_historical_strategy_plan.txt' #222
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SAU_alternate_strategy_plan.txt' #225
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SAU_historical_strategy_plan.txt' #226
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SIA_alternate_strategy_plan.txt' #231
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SIA_historical_strategy_plan.txt' #232
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SOV_alternate_strategy_plan.txt' #242
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SOV_historical_strategy_plan.txt' #243
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPA_alternate_strategy_plan.txt' #245
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPB_alternate_strategy_plan.txt' #246
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPC_alternate_strategy_plan.txt' #248
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPD_alternate_strategy_plan.txt' #250
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPD_historical_strategy_plan.txt' #251
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SPR_historical_strategy_plan.txt' #254
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SWE_alternate_strategy_plan.txt' #260
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SWE_historical_strategy_plan.txt' #261
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SWI_alternate_strategy_plan.txt' #265
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'SWI_historical_strategy_plan.txt' #266
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'TUR_alternate_strategy_plan.txt' #275
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'TUR_historical_strategy_plan.txt' #276
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'TUR_r56_alternate_strategy_plan.txt' #279
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'TUR_r56_historical_strategy_plan.txt' #280
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'USA_alternate_strategy_plan.txt' #288
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'USA_historical_strategy_plan.txt' #289
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'VEN_alternate_strategy_plan.txt' #295
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'VEN_historical_strategy_plan.txt' #296
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'YUG_alternate_strategy_plan.txt' #299
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'YUG_historical_strategy_plan.txt' #300
+[22:44:51][ai_strategy.cpp:7851]: AI Roles loaded 'generic_tree_fascist_communist_strategy_plan.txt' #304
+[22:44:52][eventmanager.cpp:253]: Events loaded events/00_r56_debug_test.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ARM_events.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/AZR_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/AcePilots.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Albania.txt' #12
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Algeria.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Andorra.txt' #3
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Austria.txt' #86
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_AfricanUnion_events.txt' #23
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_Ethiopia.txt' #184
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_ItaloEthiopianWar.txt' #41
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_Italy.txt' #219
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_NewsEvents.txt' #27
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BBA_Switzerland.txt' #73
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BEL_additional_events.txt' #70
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BEL_events.txt' #91
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFR_Germany.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFR_Indochina.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFTB_Bulgaria.txt' #148
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFTB_Greece.txt' #139
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFTB_NewsEvents.txt' #27
+[22:44:52][eventmanager.cpp:253]: Events loaded events/BFTB_Turkey.txt' #139
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Baltic.txt' #7
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Brazil.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Britain.txt' #27
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Bulgaria.txt' #5
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Bulgaria_events.txt' #47
+[22:44:52][eventmanager.cpp:253]: Events loaded events/CFM_city_events.txt' #101
+[22:44:52][eventmanager.cpp:253]: Events loaded events/CNF_withdraw_hidden.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/CZE_Czechoslovakia.txt' #112
+[22:44:52][eventmanager.cpp:253]: Events loaded events/CapitulationEvents.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Chile.txt' #37
+[22:44:52][eventmanager.cpp:253]: Events loaded events/China.txt' #28
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Colombia.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Cuba.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DOD_Czechoslovakia.txt' #34
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DOD_Hungary.txt' #128
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DOD_NewsEvents.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DOD_Romania.txt' #64
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DOD_Yugoslavia.txt' #51
+[22:44:52][eventmanager.cpp:253]: Events loaded events/DanishEvents.txt' #62
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Decisions_Events.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ENF_england_events.txt' #29
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ERW_erwache.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ElectionEvents.txt' #15
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Estonia.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Ethiopia.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Finland.txt' #98
+[22:44:52][eventmanager.cpp:253]: Events loaded events/France.txt' #83
+[22:44:52][eventmanager.cpp:253]: Events loaded events/FrenchIndochinaEvents.txt' #7
+[22:44:52][eventmanager.cpp:253]: Events loaded events/GEO_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Generic.txt' #25
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Germany.txt' #136
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Greece.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Greenland.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Hungary.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ICE_events.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/IRQ_iraq_events.txt' #31
+[22:44:52][eventmanager.cpp:253]: Events loaded events/India.txt' #95
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Italy.txt' #16
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Japan.txt' #16
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LAR_NewsEvents.txt' #31
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LAR_Spain.txt' #89
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LAR_TestEvents.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LAR_occupation.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LAT_events.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LaR_France.txt' #136
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LaR_Portugal.txt' #39
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LaR_agent_events.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LaR_espionage_operations.txt' #10
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Lemur_focus_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Liechtenstein.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/LowCountries.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Luxembourg.txt' #20
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MEN.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_Britain.txt' #115
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_Germany.txt' #3
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_Netherlands.txt' #77
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_NewsEvents.txt' #64
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_USA.txt' #103
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_generic.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/MTG_naval_treaty_events.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Mali_events.txt' #3
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Mexico.txt' #49
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Moldova.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Mongolia.txt' #165
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Baltic.txt' #38
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Estonia.txt' #21
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Latvia.txt' #13
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Lithuania.txt' #31
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_NewsEvents.txt' #32
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Poland.txt' #80
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NSB_Soviet.txt' #201
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NaW_NewsEvents.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NaW_Norway.txt' #133
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NewsEvents.txt' #289
+[22:44:52][eventmanager.cpp:253]: Events loaded events/NukeEvents.txt' #14
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Phillippines.txt' #18
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Poland.txt' #34
+[22:44:52][eventmanager.cpp:253]: Events loaded events/PoliticalEvents.txt' #23
+[22:44:52][eventmanager.cpp:253]: Events loaded events/R56_Australia.txt' #32
+[22:44:52][eventmanager.cpp:253]: Events loaded events/R56_Italy.txt' #38
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Romania.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SAF_events.txt' #7
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SPR_spain.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SWE_sweden.txt' #57
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SWI_events.txt' #31
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SZK_szekelys_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Saudi.txt' #15
+[22:44:52][eventmanager.cpp:253]: Events loaded events/SovietUnion.txt' #41
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Spain.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TFV_Australia.txt' #30
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TFV_Canada.txt' #21
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TFV_New_Zealand.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TFV_Raj.txt' #0
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TFV_South_Africa.txt' #68
+[22:44:52][eventmanager.cpp:253]: Events loaded events/TestEvents.txt' #10
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Tibet.txt' #29
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Turkey.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/USA.txt' #41
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Ukraine.txt' #5
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Uruguay.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Vietnam.txt' #14
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Britain.txt' #12
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_China.txt' #67
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Denmark.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Germany.txt' #85
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Japan.txt' #47
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Manchukou.txt' #7
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_NewsEvents.txt' #69
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_PRC.txt' #28
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Poland.txt' #19
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_Soviet.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_border_conflict_events.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WTT_china_political_power_struggle.txt' #26
+[22:44:52][eventmanager.cpp:253]: Events loaded events/WarJustification.txt' #41
+[22:44:52][eventmanager.cpp:253]: Events loaded events/Yugoslavia.txt' #9
+[22:44:52][eventmanager.cpp:253]: Events loaded events/andalusia.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/bhutan.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/chinese_gui.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/costa_rica.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/danzig.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/debug_events.txt' #3
+[22:44:52][eventmanager.cpp:253]: Events loaded events/egypt.txt' #65
+[22:44:52][eventmanager.cpp:253]: Events loaded events/honduras.txt' #71
+[22:44:52][eventmanager.cpp:253]: Events loaded events/indonesia.txt' #56
+[22:44:52][eventmanager.cpp:253]: Events loaded events/malaysia.txt' #20
+[22:44:52][eventmanager.cpp:253]: Events loaded events/netherlands.txt' #36
+[22:44:52][eventmanager.cpp:253]: Events loaded events/pakistan.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/panama.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_ENG.txt' #6
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_Greece.txt' #82
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_Poland.txt' #164
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_SIA_events.txt' #34
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_Soviet.txt' #35
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_ai_peaces_and_war.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_argentina.txt' #44
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_canada.txt' #18
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_china.txt' #247
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_croatia.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_ethiopia.txt' #13
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_generic_tree_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_guatemala.txt' #3
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_hungary.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_ireland.txt' #14
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_israel.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_japan.txt' #27
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_leader_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_lithuania.txt' #88
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_manchukou.txt' #64
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_mexico.txt' #23
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_netherlands.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_new_zealand.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_news_events.txt' #71
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_nicaragua.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_on_actions_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_paraguay.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_patreon_events.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_persia.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_portugal.txt' #31
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_prc.txt' #116
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_quebec.txt' #1
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_ruthenia.txt' #8
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_sinkiang.txt' #4
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_slovakia.txt' #10
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_spying_event.txt' #11
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_startup_events.txt' #2
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_turkey.txt' #34
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_usa.txt' #24
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_vichy_france.txt' #18
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56_yugoslavia.txt' #5
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56i_events.txt' #22
+[22:44:52][eventmanager.cpp:253]: Events loaded events/r56w_events.txt' #27
+[22:44:52][eventmanager.cpp:253]: Events loaded events/recruit_generals_events.txt' #35
+[22:44:52][eventmanager.cpp:253]: Events loaded events/ss_recruitment_event.txt' #24
+[22:44:52][eventmanager.cpp:253]: Events loaded events/stability_events.txt' #33
+[22:44:52][eventmanager.cpp:253]: Events loaded events/treaty_orgs.txt' #5
+[22:44:52][eventmanager.cpp:253]: Events loaded events/venezuela.txt' #39
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #1 tag = on_new_term_election random events = 24 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #2 tag = on_ace_promoted random events = 2 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #3 tag = on_aces_killed_each_other random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #4 tag = on_ace_killed_by_ace random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #5 tag = on_ace_killed_other_ace random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #6 tag = on_ace_killed random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #7 tag = on_ace_killed_on_accident random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #8 tag = on_non_ace_killed_other_ace random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #9 tag = on_justifying_wargoal_pulse random events = 20 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #10 tag = on_wargoal_expire random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #11 tag = on_nuke_drop random events = 1 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #12 tag = on_border_war_lost random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #13 tag = on_leave_faction random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #14 tag = on_offer_join_faction random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #15 tag = on_join_faction random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #16 tag = on_declare_war random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #17 tag = on_faction_formed random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #18 tag = on_capitulation random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #19 tag = on_monthly_GER random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #20 tag = on_uncapitulation random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #21 tag = on_government_change random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #22 tag = on_coup_succeeded random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #23 tag = on_civil_war_end random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #24 tag = on_puppet random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #25 tag = on_release_as_puppet random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #26 tag = on_annex random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #27 tag = on_startup random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #28 tag = on_unit_leader_created random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #29 tag = on_war random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #30 tag = on_war_relation_added random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #31 tag = on_peaceconference_ended random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #32 tag = on_state_control_changed random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #33 tag = on_unit_leader_level_up random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #34 tag = on_army_leader_daily random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #35 tag = on_army_leader_won_combat random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #36 tag = on_army_leader_lost_combat random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #37 tag = on_army_leader_promoted random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 00_on_actions.txt: ActionList #38 tag = on_ruling_party_change random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 01_tfv_on_actions.txt: ActionList #39 tag = on_subject_free random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 01_tfv_on_actions.txt: ActionList #40 tag = on_subject_autonomy_level_change random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 01_tfv_on_actions.txt: ActionList #41 tag = on_subject_annexed random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 01_tfv_on_actions.txt: ActionList #42 tag = on_release_as_free random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 04_mtg_on_actions.txt: ActionList #43 tag = on_host_changed_from_capitulation random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 04_mtg_on_actions.txt: ActionList #44 tag = on_exile_government_reinstated random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 04_mtg_on_actions.txt: ActionList #45 tag = on_civil_war_end_before_annexation random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 04_mtg_on_actions.txt: ActionList #46 tag = on_government_exiled random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #47 tag = on_operative_on_mission_spotted random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #48 tag = on_operative_captured random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #49 tag = on_operative_death random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #50 tag = on_operative_detected_during_operation random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #51 tag = on_operation_completed random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #52 tag = on_fully_decrypted_cipher random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #53 tag = on_activated_active_decryption_bonuses random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #54 tag = on_create_faction random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #55 tag = on_send_volunteers random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #56 tag = on_weekly random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 05_lar_on_actions.txt: ActionList #57 tag = on_operative_created random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 06_bftb_on_actions.txt: ActionList #58 tag = on_weekly_BUL random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 06_bftb_on_actions.txt: ActionList #59 tag = on_monthly_BUL random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 07_nsb_on_actions.txt: ActionList #60 tag = on_peace random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 07_nsb_on_actions.txt: ActionList #61 tag = on_weekly_SOV random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 07_nsb_on_actions.txt: ActionList #62 tag = on_daily_SOV random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 07_nsb_on_actions.txt: ActionList #63 tag = on_monthly_SOV random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #64 tag = on_monthly random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #65 tag = on_capitulation_immediate random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #66 tag = on_daily_ETH random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #67 tag = on_daily_ITA random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #68 tag = on_weekly_ETH random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: 08_bba_on_actions.txt: ActionList #69 tag = on_unit_leader_promote_from_ranks_green random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: chinese_gui_on_actions.txt: ActionList #70 tag = on_monthly_CHI random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: chinese_gui_on_actions.txt: ActionList #71 tag = on_monthly_PRC random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: den_on_actions.txt: ActionList #72 tag = on_monthly_DEN random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #73 tag = on_join_allies random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #74 tag = on_dismantle_faction random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #75 tag = on_liberate random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #76 tag = on_paradrop random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #77 tag = on_naval_invasion random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: r56_on_actions.txt: ActionList #78 tag = on_weekly_CHI random events = 0 events = 0
+[22:44:52][onaction.cpp:454]: raj_on_actions.txt: ActionList #79 tag = on_daily_RAJ random events = 0 events = 0
+[22:45:04][frontend.cpp:176]: Startup time: 28934ms
+[22:45:08][frontendinterfacehandler.cpp:256]: Session change

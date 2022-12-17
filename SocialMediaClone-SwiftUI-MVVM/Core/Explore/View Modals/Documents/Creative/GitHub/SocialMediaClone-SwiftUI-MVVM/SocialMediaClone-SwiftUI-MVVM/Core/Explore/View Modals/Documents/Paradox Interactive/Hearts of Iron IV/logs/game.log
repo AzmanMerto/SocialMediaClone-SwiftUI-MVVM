@@ -1,0 +1,45 @@
+[22:44:37][defines.cpp:246]: 3699 defines loaded
+[22:44:47][equipmentbonus.cpp:28]: Duplicated equipment stat type build_cost_ic; combining values.
+[22:44:52][gamestate.cpp:2536]: Loaded 13306 provinces.
+[22:44:56][gameapplication.cpp:2643]: Resetting game
+[22:44:58][history.cpp:160]: Executing History from -1.1.1.1 to  2.1.1.1
+[22:44:59][history.cpp:160]: Executing History from 2.1.1.1 to  1936.1.1.12
+[22:45:29][frontend.cpp:657]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1936.1.1.12
+
+[22:45:32][ingameidler.cpp:5029]: Start RestoreDeviceObjects
+[22:45:34][ingameidler.cpp:5177]: End RestoreDeviceObjects
+[22:47:51][effectbase.cpp:2156]: planes triggered
+[23:10:25][effectbase.cpp:2156]:  10:00, 8 August, 1936: Kingdom of Belgium: Decision dockyard_xp
+[23:19:36][effectbase.cpp:2156]:  19:00, 16 December, 1936: British Raj: Decision finalize_the_vote
+[23:23:01][effectbase.cpp:2156]:  15:00, 31 January, 1937: British Raj: Decision raj_placate_the_muslim_opposition
+[23:23:04][effectbase.cpp:2156]:  16:00, 1 February, 1937: British Raj: Decision raj_placate_the_opposition
+[23:24:23][effectbase.cpp:2156]:  14:00, 24 February, 1937: British Raj: Decision finalize_the_vote
+[23:24:36][effectbase.cpp:2156]:  7:00, 2 March, 1937: British Raj: Decision RAJ_provincial_election_countdown
+[23:47:05][effectbase.cpp:2156]: Hey I am Mikhail Tukhachevsky I am in the Event!
+[23:47:05][effectbase.cpp:2156]: Hey I am Aleksandr Yegorov I am in the Event!
+[23:47:05][effectbase.cpp:2156]: Hey I am Vasily Blyukher I am in the Event!
+[23:47:05][effectbase.cpp:2156]: Hey I am Vitaly Primakov I am in the Event!
+[23:47:06][effectbase.cpp:1924]: common/on_actions/05_lar_on_actions.txt:125: random_list: Enumerating effects:
+[23:47:06][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:127: 90 SumSoFar=0
+[23:47:06][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:133: 10 SumSoFar=90
+[23:47:06][effectbase.cpp:1946]: common/on_actions/05_lar_on_actions.txt:125: random_list: Total=100.000
+[23:47:06][effectbase.cpp:1973]: common/on_actions/05_lar_on_actions.txt:125: random_list: Rolled=22.300
+[23:47:06][effectbase.cpp:2095]: common/on_actions/05_lar_on_actions.txt:125: random_list: Executing=common/on_actions/05_lar_on_actions.txt:127
+[23:48:14][effectbase.cpp:1924]: common/on_actions/05_lar_on_actions.txt:125: random_list: Enumerating effects:
+[23:48:14][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:127: 90 SumSoFar=0
+[23:48:14][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:133: 10 SumSoFar=90
+[23:48:14][effectbase.cpp:1946]: common/on_actions/05_lar_on_actions.txt:125: random_list: Total=100.000
+[23:48:14][effectbase.cpp:1973]: common/on_actions/05_lar_on_actions.txt:125: random_list: Rolled=47.400
+[23:48:14][effectbase.cpp:2095]: common/on_actions/05_lar_on_actions.txt:125: random_list: Executing=common/on_actions/05_lar_on_actions.txt:127
+[23:53:37][effectbase.cpp:2156]:  5:00, 31 January, 1938: British Raj: Decision raj_placate_the_muslim_opposition
+[23:59:37][effectbase.cpp:2156]:  8:00, 25 March, 1938: British Raj: Decision finalize_the_vote
+[00:03:27][effectbase.cpp:2156]: This is Union of Soviet Socialist Republics // PREV is Georgy Zakharov // ROOT is Union of Soviet Socialist Republics // VAR is Georgy Zakharov
+[00:33:48][effectbase.cpp:1924]: common/on_actions/05_lar_on_actions.txt:125: random_list: Enumerating effects:
+[00:33:48][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:127: 90 SumSoFar=0
+[00:33:48][effectbase.cpp:1944]: common/on_actions/05_lar_on_actions.txt:133: 10 SumSoFar=90
+[00:33:48][effectbase.cpp:1946]: common/on_actions/05_lar_on_actions.txt:125: random_list: Total=100.000
+[00:33:48][effectbase.cpp:1973]: common/on_actions/05_lar_on_actions.txt:125: random_list: Rolled=76.100
+[00:33:48][effectbase.cpp:2095]: common/on_actions/05_lar_on_actions.txt:125: random_list: Executing=common/on_actions/05_lar_on_actions.txt:127
