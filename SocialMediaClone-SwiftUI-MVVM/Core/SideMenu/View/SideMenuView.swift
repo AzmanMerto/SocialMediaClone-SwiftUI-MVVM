@@ -24,7 +24,7 @@ struct SideMenuView: View {
                             .clipShape(Circle())
                             .frame(width: 48)
                         
-                        VStack(alignment:.leading,spacing: 10) {
+                        VStack(alignment:.leading, spacing: 10) {
                             Text(user.fullname)
                                 .font(.headline)
                             
@@ -39,7 +39,7 @@ struct SideMenuView: View {
                     ForEach(SideMenuViewModel.allCases, id: \.rawValue) { ViewModel in
                         if ViewModel == .profile {
                             NavigationLink {
-                                ProfileView()
+                                ProfileView(user: user)
                             } label: {
                                 SideMenuOptionRowView(ViewModel: ViewModel)
                             }

@@ -22,7 +22,13 @@ class AuthViewModel: ObservableObject {
     
     
     func login(Email: String, Password: String) {
-        
+        Auth.auth().signIn(withEmail: Email,password: Password) { result, error in
+            if let error = error { return }
+            
+            guard let user = result?.user else {return}
+            self.userSession = user
+            self.fetcUser()
+        }
     }
 
     func register(Email: String, Password: String, Fullname: String, Username: String) {
@@ -65,6 +71,7 @@ class AuthViewModel: ObservableObject {
                 .document(uid)
                 .updateData(["profileImageUrl": profileImageUrl]) { _ in
                     self.userSession = self.tempUserSession
+                    self.fetcUser()
                 }
         }
     }
