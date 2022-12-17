@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct TweetRowView: View {
+    let tweet : Tweet
+    
     var body: some View {
         
         // MARK: Tweet
@@ -33,7 +35,7 @@ struct TweetRowView: View {
                             .font(.caption)
                     }
                     // MARK: - Tweet Space
-                    Text("Hey I am codin")
+                    Text(tweet.caption)
                         .font(.subheadline)
                         .multilineTextAlignment(.leading)
                 }
@@ -41,7 +43,7 @@ struct TweetRowView: View {
             // MARK: - Tweet Action Buttons
             HStack() {
                 Button {
-                    // Action
+                    
                 } label: {
                     Image(systemName: "bubble.left")
                         .font(.subheadline)
@@ -82,8 +84,4 @@ struct TweetRowView: View {
     }
 }
 
-struct TweetRowView_Previews: PreviewProvider {
-    static var previews: some View {
-        TweetRowView()
-    }
-}
+

@@ -10,7 +10,7 @@ import Kingfisher
 
 struct NewTweetView: View {
     @State private var caption = ""
-    @Environment(\.presentationMode) var mode
+    @Environment(\.presentationMode) var presentationMode
     @EnvironmentObject var authViewModel: AuthViewModel
     @ObservedObject var viewModel = UploadTweetViewModel()
     
@@ -18,7 +18,7 @@ struct NewTweetView: View {
         VStack{
             HStack{
                 Button {
-                    mode.wrappedValue.dismiss()
+                    presentationMode.wrappedValue.dismiss()
                 } label: {
                     Text("Cancel")
                         .foregroundColor(.blue)
@@ -52,6 +52,11 @@ struct NewTweetView: View {
             }
             .padding()
             Spacer()
+        }
+        .onReceive(viewModel.$didUploadTweet) { success in
+            if success {
+                presentationMode.wrappedValue.dismiss()
+            }
         }
     }
 }

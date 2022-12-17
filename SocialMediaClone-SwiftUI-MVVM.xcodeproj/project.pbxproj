@@ -39,6 +39,8 @@
 		349B9715294DEAF800D70A45 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349B9714294DEAF800D70A45 /* SearchBar.swift */; };
 		349B9717294E077200D70A45 /* TweetService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349B9716294E077200D70A45 /* TweetService.swift */; };
 		349B971A294E08DA00D70A45 /* UploadTweetViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349B9719294E08DA00D70A45 /* UploadTweetViewModel.swift */; };
+		349B971D294E12C100D70A45 /* FeedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349B971C294E12C100D70A45 /* FeedViewModel.swift */; };
+		349B9720294E136F00D70A45 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 349B971F294E136F00D70A45 /* Tweet.swift */; };
 		349ED935294B87CA004568BD /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 349ED934294B87CA004568BD /* FirebaseAuth */; };
 		349ED937294B87CA004568BD /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 349ED936294B87CA004568BD /* FirebaseFirestore */; };
 		349ED939294B87CA004568BD /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 349ED938294B87CA004568BD /* FirebaseFirestoreSwift */; };
@@ -83,6 +85,8 @@
 		349B9714294DEAF800D70A45 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		349B9716294E077200D70A45 /* TweetService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetService.swift; sourceTree = "<group>"; };
 		349B9719294E08DA00D70A45 /* UploadTweetViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadTweetViewModel.swift; sourceTree = "<group>"; };
+		349B971C294E12C100D70A45 /* FeedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewModel.swift; sourceTree = "<group>"; };
+		349B971F294E136F00D70A45 /* Tweet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tweet.swift; sourceTree = "<group>"; };
 		34F5613B293A4E1C00A52826 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		34F5614D293A532100A52826 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 		34F5615A293A6C2700A52826 /* ProfilePhotoSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePhotoSelectorView.swift; sourceTree = "<group>"; };
@@ -192,6 +196,7 @@
 			isa = PBXGroup;
 			children = (
 				345B3B26294B72B600F3B9F4 /* User.swift */,
+				349B971F294E136F00D70A45 /* Tweet.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -213,17 +218,10 @@
 		34752282292F892300A63C1C /* Feed */ = {
 			isa = PBXGroup;
 			children = (
+				349B971B294E12B100D70A45 /* ViewModels */,
 				34752284292F895F00A63C1C /* View */,
-				34752283292F895A00A63C1C /* View Model */,
 			);
 			path = Feed;
-			sourceTree = "<group>";
-		};
-		34752283292F895A00A63C1C /* View Model */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "View Model";
 			sourceTree = "<group>";
 		};
 		34752284292F895F00A63C1C /* View */ = {
@@ -411,6 +409,14 @@
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
+		349B971B294E12B100D70A45 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				349B971C294E12C100D70A45 /* FeedViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -498,6 +504,8 @@
 				345B3B25294B714800F3B9F4 /* UserService.swift in Sources */,
 				346501D3293B6C1500A8CEAD /* ImagePicker.swift in Sources */,
 				34752289292F8B6E00A63C1C /* TweetRowView.swift in Sources */,
+				349B9720294E136F00D70A45 /* Tweet.swift in Sources */,
+				349B971D294E12C100D70A45 /* FeedViewModel.swift in Sources */,
 				34752286292F897B00A63C1C /* FeedView.swift in Sources */,
 				345B3B23294B4F2800F3B9F4 /* ImageUploader.swift in Sources */,
 				348E39D62934846B0031CCE0 /* CustomInputField.swift in Sources */,

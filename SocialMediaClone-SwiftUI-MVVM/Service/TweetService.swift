@@ -25,4 +25,13 @@ struct TweetService {
                 completion(true)
             }
     }
+    
+    func fetchTweet(completion: @escaping([Tweet]) -> Void) {
+        Firestore.firestore().collection("tweet").getDocuments { snapshot, _ in
+            guard let documents = snapshot?.documents else { return }
+            
+            let tweets = documents.compactMap({ try? $0.data(as: Tweet.self)})
+            completion(tweets)
+        }
+    }
 }
