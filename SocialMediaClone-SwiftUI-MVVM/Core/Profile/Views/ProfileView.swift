@@ -59,7 +59,7 @@ struct ProfileView: View {
                 Button {
                     //Action
                 } label: {
-                    Text("Edit Profile")
+                    Text(viewModel.actionButtonTittle)
                         .font(.subheadline).bold()
                         .frame(width: 128, height: 32)
                         .foregroundColor(.black)
@@ -136,7 +136,7 @@ struct ProfileView: View {
             // MARK: - Profile Tweets
             ScrollView{
                 LazyVStack{
-                    ForEach(viewModel.tweets) { tweet in
+                    ForEach(viewModel.tweets(forFilter: self.selectedFilter)) { tweet in
                         TweetRowView(tweet: tweet )
                             .padding()
                     }
