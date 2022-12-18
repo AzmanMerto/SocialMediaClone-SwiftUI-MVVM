@@ -20,10 +20,11 @@ class ProfileViewModel: ObservableObject {
     
     func fetcUserTweets() {
         guard let uid = user.id else { return }
+        
         service.fetcTweets(forUid: user.id ?? "") { tweets in
             self.tweets = tweets
             
-            for i in 0..< tweets.count() {
+            for i in 0 ..< tweets.count {
                 self.tweets[i].user = self.user
             }
         }

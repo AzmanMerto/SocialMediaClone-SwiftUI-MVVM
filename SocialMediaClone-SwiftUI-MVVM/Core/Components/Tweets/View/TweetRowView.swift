@@ -9,14 +9,18 @@ import SwiftUI
 import Kingfisher
 
 struct TweetRowView: View {
-    let tweet : Tweet
+    let viewModel : TweetRowViewModel
+    
+    init(tweet: Tweet) {
+        self.viewModel = TweetRowViewModel(tweet: tweet)
+    }
     
     var body: some View {
         
         // MARK: Tweet
         VStack(alignment: .leading) {
             // MARK: - Tweet Image Circle
-            if let user = tweet.user {
+            if let user = viewModel.tweet.user {
                 HStack(alignment: .top, spacing: 12) {
                     
                     KFImage(URL(string: user.profileImageUrl))
@@ -43,7 +47,7 @@ struct TweetRowView: View {
                             }
                         
                         // MARK: - Tweet Space
-                        Text(tweet.caption)
+                        Text(viewModel.tweet.caption)
                             .font(.subheadline)
                             .multilineTextAlignment(.leading)
                     }
@@ -70,7 +74,7 @@ struct TweetRowView: View {
                 Spacer()
                 
                 Button {
-                    // Action
+                    viewModel.likeTweet()
                 } label: {
                     Image(systemName: "heart")
                         .font(.subheadline)
