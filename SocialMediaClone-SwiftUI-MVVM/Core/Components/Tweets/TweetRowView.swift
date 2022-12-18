@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Kingfisher
 
 struct TweetRowView: View {
     let tweet : Tweet
@@ -15,29 +16,37 @@ struct TweetRowView: View {
         // MARK: Tweet
         VStack(alignment: .leading) {
             // MARK: - Tweet Image Circle
-            HStack(alignment: .top, spacing: 12) {
-                Circle()
-                    .frame(width: 56)
-                    .foregroundColor(Color.blue)
-                VStack(alignment: .leading, spacing: 4 ) {
+            if let user = tweet.user {
+                HStack(alignment: .top, spacing: 12) {
                     
-                    // MARK: - Tweet Info
-                    HStack {
-                        Text("Mert Türedü")
-                            .font(.subheadline).bold()
+                    KFImage(URL(string: user.profileImageUrl))
+                        .resizable()
+                        .scaledToFill()
+                        .clipShape(Circle())
+                        .frame(width: 56)
+
+                    VStack(alignment: .leading, spacing: 4 ) {
                         
-                        Text("@NomoteteS")
-                            .foregroundColor(.gray)
-                            .font(.caption)
+                        // MARK: - Tweet Info
+                      
+                            HStack {
+                                Text(user.fullname)
+                                    .font(.subheadline).bold()
+                                
+                                Text("@\(user.username)")
+                                    .foregroundColor(.gray)
+                                    .font(.caption)
+                                
+                                Text("31s")
+                                    .foregroundColor(.gray)
+                                    .font(.caption)
+                            }
                         
-                        Text("31s")
-                            .foregroundColor(.gray)
-                            .font(.caption)
+                        // MARK: - Tweet Space
+                        Text(tweet.caption)
+                            .font(.subheadline)
+                            .multilineTextAlignment(.leading)
                     }
-                    // MARK: - Tweet Space
-                    Text(tweet.caption)
-                        .font(.subheadline)
-                        .multilineTextAlignment(.leading)
                 }
             }
             // MARK: - Tweet Action Buttons

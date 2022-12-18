@@ -36,7 +36,7 @@ struct FeedView: View {
             .fullScreenCover(isPresented: $ShowNewTweetView) {
                 NewTweetView()
             }
-        }
+        }.navigationBarTitleDisplayMode(.inline)
     }
 }
 

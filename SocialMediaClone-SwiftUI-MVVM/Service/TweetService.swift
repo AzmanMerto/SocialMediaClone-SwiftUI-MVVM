@@ -27,11 +27,24 @@ struct TweetService {
     }
     
     func fetchTweet(completion: @escaping([Tweet]) -> Void) {
-        Firestore.firestore().collection("tweet").getDocuments { snapshot, _ in
+        Firestore.firestore().collection("tweet")
+            .order(by: "timestamp", descending: true)
+            .getDocuments { snapshot, _ in
             guard let documents = snapshot?.documents else { return }
             
             let tweets = documents.compactMap({ try? $0.data(as: Tweet.self)})
             completion(tweets)
+        }
+    }
+    
+    func fetcTweets(forUid uid: String,completion: @escaping([Tweet]) -> Void) {
+        Firestore.firestore().collection("tweet")
+            .whereField("uid", isEqualTo: uid)
+            .getDocuments { snapshot, _ in
+            guard let documents = snapshot?.documents else { return }
+            
+            let tweets = documents.compactMap( { try? $0.data(as: Tweet.self) } )
+                completion(tweets.sorted(by: { $0.timestamp.dateValue() > $1.timestamp.dateValue() } ) )
         }
     }
 }
